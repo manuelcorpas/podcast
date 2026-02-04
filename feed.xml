@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:georss="http://www.georss.org/georss"
+  xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+  xmlns:media="http://search.yahoo.com/mrss/"
+>
+<channel>
+  <title>Personal Genomics Zone</title>
+  <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <link>https://manuelcorpas.com</link>
+  <description>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</description>
+  <lastBuildDate>Tue, 04 Feb 2026 12:00:00 +0000</lastBuildDate>
+  <language>en</language>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+  <copyright>(CC-BY-3.0)</copyright>
+  <itunes:summary>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</itunes:summary>
+  <itunes:author>Manuel Corpas</itunes:author>
+  <itunes:owner>
+    <itunes:email>manuel.corpas@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  <itunes:category text="Technology"/>
+  <itunes:category text="Science">
+    <itunes:category text="Life Sciences"/>
+  </itunes:category>
+  <itunes:category text="Health &amp; Fitness">
+    <itunes:category text="Medicine"/>
+  </itunes:category>
+  <googleplay:description>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</googleplay:description>
+  <googleplay:author>Manuel Corpas</googleplay:author>
+  <googleplay:owner>manuel.corpas@gmail.com</googleplay:owner>
+  <googleplay:email>manuel.corpas@gmail.com</googleplay:email>
+  <googleplay:explicit>false</googleplay:explicit>
+  <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+
+  <!-- Episode: Building an Agentic AI System for Personal Productivity -->
+  <item>
+    <title>Building an Agentic AI System for Personal Productivity</title>
+    <link>https://manuelcorpas.com/2026/02/04/building-an-agentic-ai-system/</link>
+    <pubDate>Tue, 04 Feb 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-02-04-agentic-ai-system-update.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Technology]]></category>
+    <category><![CDATA[Agentic AI]]></category>
+    <category><![CDATA[Productivity]]></category>
+    <description><![CDATA[How I built a multi-agent AI system for personal productivity, integrating Claude Code, Telegram bots, ChromaDB memory, and autonomous task execution. A practical look at the architecture, lessons learned, and what agentic AI means for individual researchers.]]></description>
+    <content:encoded><![CDATA[<p>How I built a multi-agent AI system for personal productivity, integrating Claude Code, Telegram bots, ChromaDB memory, and autonomous task execution. A practical look at the architecture, lessons learned, and what agentic AI means for individual researchers.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-02-04-agentic-ai-system-update.mp3" length="9066960" type="audio/mpeg"/>
+    <itunes:duration>1511</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>How I built a multi-agent AI system for personal productivity, integrating Claude Code, Telegram bots, ChromaDB memory, and autonomous task execution.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>How I built a multi-agent AI system for personal productivity, integrating Claude Code, Telegram bots, ChromaDB memory, and autonomous task execution.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
+  <!-- Episode: Why LLMs Can Hurt Your Academic Writing If You Trust Them Too Much -->
+  <item>
+    <title>Why LLMs Can Hurt Your Academic Writing If You Trust Them Too Much</title>
+    <link>https://manuelcorpas.com/2026/01/25/why-llms-can-hurt-your-academic-writing-if-you-trust-them-too-much/</link>
+    <comments>https://manuelcorpas.com/2026/01/25/why-llms-can-hurt-your-academic-writing-if-you-trust-them-too-much/#respond</comments>
+    <pubDate>Sun, 25 Jan 2026 09:21:25 +0000</pubDate>
+    <guid isPermaLink="false">http://manuelcorpas.com/?p=7655</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Academic Writing]]></category>
+    <category><![CDATA[Artificial Intelligence]]></category>
+    <category><![CDATA[chatgpt]]></category>
+    <category><![CDATA[Claude]]></category>
+    <category><![CDATA[llm]]></category>
+    <category><![CDATA[LLMs]]></category>
+    <category><![CDATA[Technology]]></category>
+    <description><![CDATA[I spend many hours working with LLMs to help me support my academic writing. This post summarises what I have learned. If you are using LLMs to help write academic papers, grant applications, or technical reports, these observations might save you from some painful mistakes.]]></description>
+    <content:encoded><![CDATA[<p>I spend many hours working with LLMs to help me support my academic writing. This post summarises what I have learned. If you are using LLMs to help write academic papers, grant applications, or technical reports, these observations might save you from some painful mistakes.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-01-25-llms-academic-writing.mp3" length="8056944" type="audio/mpeg"/>
+    <itunes:duration>1343</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>I spend many hours working with LLMs to help me support my academic writing. This post summarises what I have learned. If you are using LLMs to help write academic papers, grant applications, or technical reports, these observations might save you from some painful mistakes.</itunes:summary>
+    <itunes:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2026/01/llm-traps.png?fit=3000%2C3000&amp;ssl=1"/>
+    <wfw:commentRss>https://manuelcorpas.com/2026/01/25/why-llms-can-hurt-your-academic-writing-if-you-trust-them-too-much/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>I spend many hours working with LLMs to help me support my academic writing.</googleplay:description>
+    <googleplay:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2026/01/llm-traps.png?fit=3000%2C3000&amp;ssl=1"/>
+  </item>
+
+  <!-- Episode: Missing Pieces: Why Genomic Diversity Is the Key to Better Science -->
+  <item>
+    <title>Missing Pieces: Why Genomic Diversity Is the Key to Better Science</title>
+    <link>https://manuelcorpas.com/2025/12/10/missing-pieces-why-genomic-diversity-is-the-key-to-better-science/</link>
+    <pubDate>Wed, 10 Dec 2025 08:31:00 +0000</pubDate>
+    <guid isPermaLink="false">http://manuelcorpas.com/?p=7626</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[diversity]]></category>
+    <category><![CDATA[Equity]]></category>
+    <category><![CDATA[Inclusion]]></category>
+    <category><![CDATA[Indonesia]]></category>
+    <category><![CDATA[UK]]></category>
+    <description><![CDATA[Presented at the UK-Indonesia Health Genomics Forum, London, 25 November 2025. When we speak about the future of precision medicine, it is easy to focus on the technology. Yet the real foundation of precision medicine is something much more fundamental.]]></description>
+    <content:encoded><![CDATA[<p>Presented at the UK-Indonesia Health Genomics Forum, London, 25 November 2025. When we speak about the future of precision medicine, it is easy to focus on the technology. Yet the real foundation of precision medicine is something much more fundamental.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-12-10-missing-pieces-genomic-diversity.wav" length="183169588" type="audio/wav"/>
+    <itunes:duration>636</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Presented at the UK-Indonesia Health Genomics Forum, London, 25 November 2025. When we speak about the future of precision medicine, it is easy to focus on the technology.</itunes:summary>
+    <itunes:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/12/3pillars.png?fit=3000%2C3000&amp;ssl=1"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Presented at the UK-Indonesia Health Genomics Forum, London, 25 November 2025.</googleplay:description>
+    <googleplay:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/12/3pillars.png?fit=3000%2C3000&amp;ssl=1"/>
+  </item>
+
+  <!-- Episode: The Precision Medicine Paradox -->
+  <item>
+    <title>The Precision Medicine Paradox: Why Partial Data Cannot Deliver Global Health</title>
+    <link>https://manuelcorpas.com/2025/12/01/the-precision-medicine-paradox-why-partial-data-cannot-deliver-global-health/</link>
+    <pubDate>Mon, 01 Dec 2025 16:56:17 +0000</pubDate>
+    <guid isPermaLink="false">http://manuelcorpas.com/?p=7612</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[AI in genomics]]></category>
+    <category><![CDATA[Biology]]></category>
+    <category><![CDATA[Data science]]></category>
+    <category><![CDATA[diversity]]></category>
+    <category><![CDATA[ethics]]></category>
+    <category><![CDATA[genetics]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Health]]></category>
+    <category><![CDATA[health data science]]></category>
+    <category><![CDATA[pharmacogenomics]]></category>
+    <category><![CDATA[Precision Medicine]]></category>
+    <category><![CDATA[science]]></category>
+    <description><![CDATA[By Dr Manuel Corpas. Precision medicine is built on a contradiction. The field promises individualised care calibrated to each person's biology, yet its foundations rest on data representing a fraction of humanity.]]></description>
+    <content:encoded><![CDATA[<p>By Dr Manuel Corpas. Precision medicine is built on a contradiction. The field promises individualised care calibrated to each person's biology, yet its foundations rest on data representing a fraction of humanity.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-12-01-precision-medicine-paradox.wav" length="1314519988" type="audio/wav"/>
+    <itunes:duration>4564</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>By Dr Manuel Corpas. Precision medicine is built on a contradiction. The field promises individualised care calibrated to each person's biology, yet its foundations rest on data representing a fraction of humanity.</itunes:summary>
+    <itunes:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/12/precision-medicine-bias.png?fit=3000%2C3000&amp;ssl=1"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Precision medicine is built on a contradiction.</googleplay:description>
+    <googleplay:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/12/precision-medicine-bias.png?fit=3000%2C3000&amp;ssl=1"/>
+  </item>
+
+  <!-- Episode: Health Data Equity in Latin America -->
+  <item>
+    <title>Health Data Equity in Latin America in the Age of AI and Genomics</title>
+    <link>https://manuelcorpas.com/2025/10/07/health-data-equity-in-latin-america-in-the-age-of-ai-and-genomics/</link>
+    <pubDate>Tue, 07 Oct 2025 15:43:24 +0000</pubDate>
+    <guid isPermaLink="false">http://manuelcorpas.com/?p=7593</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Brazil]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[HealthEquity]]></category>
+    <category><![CDATA[Latin America]]></category>
+    <category><![CDATA[Representation]]></category>
+    <description><![CDATA[A recap of my presentation to Britcham Brazil, 7 October 2025. This morning I had the privilege of presenting to a distinguished audience at the British Chamber of Commerce and Industry in Brazil.]]></description>
+    <content:encoded><![CDATA[<p>A recap of my presentation to Britcham Brazil, 7 October 2025. This morning I had the privilege of presenting to a distinguished audience at the British Chamber of Commerce and Industry in Brazil.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-10-07-health-data-equity-latin-america.wav" length="645091662" type="audio/wav"/>
+    <itunes:duration>3657</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>A recap of my presentation to Britcham Brazil, 7 October 2025.</itunes:summary>
+    <itunes:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/10/yara.png?fit=3000%2C3000&amp;ssl=1"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>A recap of my presentation to Britcham Brazil, 7 October 2025.</googleplay:description>
+    <googleplay:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/10/yara.png?fit=3000%2C3000&amp;ssl=1"/>
+  </item>
+
+  <!-- Episode: Biobanking Meets AI -->
+  <item>
+    <title>Biobanking Meets AI</title>
+    <link>https://manuelcorpas.com/2025/09/25/biobanking-meets-ai/</link>
+    <pubDate>Thu, 25 Sep 2025 13:04:06 +0000</pubDate>
+    <guid isPermaLink="false">http://manuelcorpas.com/?p=7585</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Artificial Intelligence]]></category>
+    <category><![CDATA[Biobanking]]></category>
+    <category><![CDATA[Data science]]></category>
+    <category><![CDATA[Health]]></category>
+    <category><![CDATA[Healthcare]]></category>
+    <category><![CDATA[LLMs]]></category>
+    <category><![CDATA[Technology]]></category>
+    <category><![CDATA[UK Biobank]]></category>
+    <description><![CDATA[Lectures from Biobanking for Data Science, a module I lead at the University of Westminster for the MSc AI Digital Health course. The research presented here is my own, specifically exploring how large language models perform when applied to biobank-related queries.]]></description>
+    <content:encoded><![CDATA[<p>Lectures from Biobanking for Data Science, a module I lead at the University of Westminster for the MSc AI Digital Health course.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-09-25-biobanking-meets-ai.wav" length="1630553908" type="audio/wav"/>
+    <itunes:duration>5662</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Lectures from Biobanking for Data Science, a module I lead at the University of Westminster for the MSc AI Digital Health course.</itunes:summary>
+    <itunes:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/09/image1.png?fit=3000%2C3000&amp;ssl=1"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Lectures from Biobanking for Data Science at the University of Westminster.</googleplay:description>
+    <googleplay:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/09/image1.png?fit=3000%2C3000&amp;ssl=1"/>
+  </item>
+
+  <!-- Episode: My Journey to Advancing Health Equity in Genomics -->
+  <item>
+    <title>My Journey to Advancing Health Equity in Genomics</title>
+    <link>https://manuelcorpas.com/2025/08/13/my-journey-to-advancing-health-equity-in-genomics/</link>
+    <pubDate>Wed, 13 Aug 2025 10:49:58 +0000</pubDate>
+    <guid isPermaLink="false">http://manuelcorpas.com/?p=7568</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[Personal Genomes]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[GlobalHealth]]></category>
+    <category><![CDATA[HealthEquity]]></category>
+    <category><![CDATA[LatinAmerica]]></category>
+    <category><![CDATA[PublicEngagement]]></category>
+    <category><![CDATA[ScienceCommunication]]></category>
+    <description><![CDATA[When I'm asked how I became a scientist, I usually smile, because the truth is, I've been aspiring to be one for over 30 years. My career didn't follow the straight path I once imagined.]]></description>
+    <content:encoded><![CDATA[<p>When I'm asked how I became a scientist, I usually smile, because the truth is, I've been aspiring to be one for over 30 years. My career didn't follow the straight path I once imagined.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-08-13-journey-health-equity-genomics.wav" length="537937588" type="audio/wav"/>
+    <itunes:duration>1868</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>When I'm asked how I became a scientist, I usually smile, because the truth is, I've been aspiring to be one for over 30 years.</itunes:summary>
+    <itunes:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/08/blog-tile.jpg?fit=3000%2C3000&amp;ssl=1"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>When I'm asked how I became a scientist, I usually smile, because the truth is, I've been aspiring to be one for over 30 years.</googleplay:description>
+    <googleplay:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/08/blog-tile.jpg?fit=3000%2C3000&amp;ssl=1"/>
+  </item>
+
+  <!-- Episode: Why Diversity Must Be at the Heart of Precision Medicine -->
+  <item>
+    <title>Why Diversity Must Be at the Heart of Precision Medicine</title>
+    <link>https://manuelcorpas.com/2025/07/13/why-diversity-must-be-at-the-heart-of-precision-medicine/</link>
+    <pubDate>Sun, 13 Jul 2025 19:33:17 +0000</pubDate>
+    <guid isPermaLink="false">http://manuelcorpas.com/?p=7561</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[diversity]]></category>
+    <category><![CDATA[EDI]]></category>
+    <category><![CDATA[Equity]]></category>
+    <category><![CDATA[Inclusion]]></category>
+    <category><![CDATA[pharmacogenomics]]></category>
+    <category><![CDATA[HealthEquity]]></category>
+    <category><![CDATA[DiversityInScience]]></category>
+    <category><![CDATA[GenomicDiversity]]></category>
+    <description><![CDATA[Despite breathtaking advances in genomics over the past two decades, we are failing to answer a fundamental question: who benefits from this progress? The sobering truth is that the benefits of precision medicine are overwhelmingly skewed toward people of European ancestry.]]></description>
+    <content:encoded><![CDATA[<p>Despite breathtaking advances in genomics over the past two decades, we are failing to answer a fundamental question: who benefits from this progress?</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-07-13-diversity-precision-medicine.wav" length="369517108" type="audio/wav"/>
+    <itunes:duration>1283</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Despite breathtaking advances in genomics over the past two decades, we are failing to answer a fundamental question: who benefits from this progress?</itunes:summary>
+    <itunes:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/07/2025-07-13-diversity.png?fit=3000%2C3000&amp;ssl=1"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Despite breathtaking advances in genomics, we are failing to answer: who benefits from this progress?</googleplay:description>
+    <googleplay:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/07/2025-07-13-diversity.png?fit=3000%2C3000&amp;ssl=1"/>
+  </item>
+
+  <!-- Episode: Bridging Genomics' Greatest Challenge: The Diversity Gap -->
+  <item>
+    <title>Bridging Genomics' Greatest Challenge: The Diversity Gap</title>
+    <link>https://manuelcorpas.com/2025/06/24/bridging-genomics-greatest-challenge-the-diversity-gap/</link>
+    <pubDate>Tue, 24 Jun 2025 09:59:12 +0000</pubDate>
+    <guid isPermaLink="false">http://manuelcorpas.com/?p=7555</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[#DiversityInScience]]></category>
+    <category><![CDATA[#EquityInHealthcare]]></category>
+    <category><![CDATA[#Genomics]]></category>
+    <category><![CDATA[#Pharmacogenomics]]></category>
+    <category><![CDATA[#RightToScience]]></category>
+    <description><![CDATA[Genomics holds the promise to revolutionize healthcare--offering tailored diagnoses, treatments, and prevention strategies. But this vision remains dangerously incomplete without one critical ingredient: diversity.]]></description>
+    <content:encoded><![CDATA[<p>Genomics holds the promise to revolutionize healthcare--offering tailored diagnoses, treatments, and prevention strategies. But this vision remains dangerously incomplete without one critical ingredient: diversity.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-06-24-bridging-diversity-gap.wav" length="155417908" type="audio/wav"/>
+    <itunes:duration>540</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Genomics holds the promise to revolutionize healthcare--offering tailored diagnoses, treatments, and prevention strategies. But this vision remains dangerously incomplete without one critical ingredient: diversity.</itunes:summary>
+    <itunes:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/06/cover.png?fit=3000%2C3000&amp;ssl=1"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Genomics holds the promise to revolutionize healthcare, but this vision remains incomplete without diversity.</googleplay:description>
+    <googleplay:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/06/cover.png?fit=3000%2C3000&amp;ssl=1"/>
+  </item>
+
+  <!-- Episode: Fireside Chat with Professor Yves Moreau -->
+  <item>
+    <title>Fireside Chat with Professor Yves Moreau: AI, Genomics &amp; the Ethics of Technology</title>
+    <link>https://manuelcorpas.com/2025/05/10/%f0%9f%94%ac-fireside-chat-with-professor-yves-moreau-ai-genomics-the-ethics-of-technology/</link>
+    <pubDate>Sat, 10 May 2025 16:56:14 +0000</pubDate>
+    <guid isPermaLink="false">http://manuelcorpas.com/?p=7539</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[bioethics]]></category>
+    <category><![CDATA[genomics]]></category>
+    <category><![CDATA[PersonalGenomics]]></category>
+    <category><![CDATA[PrecisionMedicine]]></category>
+    <category><![CDATA[TechnologyAndSociety]]></category>
+    <category><![CDATA[YvesMoreau]]></category>
+    <description><![CDATA[In this episode I sit down with Professor Yves Moreau from KU Leuven for a deep and thought-provoking conversation on the intersections of artificial intelligence, genomics, and society.]]></description>
+    <content:encoded><![CDATA[<p>In this episode I sit down with Professor Yves Moreau from KU Leuven for a deep and thought-provoking conversation on the intersections of artificial intelligence, genomics, and society.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-05-10-fireside-chat-yves-moreau.wav" length="967600440" type="audio/wav"/>
+    <itunes:duration>3360</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>In this episode I sit down with Professor Yves Moreau from KU Leuven for a deep and thought-provoking conversation on the intersections of artificial intelligence, genomics, and society.</itunes:summary>
+    <itunes:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/05/tile.png?fit=3000%2C3000&amp;ssl=1"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>A fireside chat with Professor Yves Moreau on AI, genomics, and the ethics of technology.</googleplay:description>
+    <googleplay:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/05/tile.png?fit=3000%2C3000&amp;ssl=1"/>
+  </item>
+
+  <!-- Episode: A ChatGPT Moment for Genomics -->
+  <item>
+    <title>A ChatGPT Moment for Genomics: Why Diversity Can't Wait</title>
+    <link>https://manuelcorpas.com/2025/05/08/a-chatgpt-moment-for-genomics-why-diversity-cant-wait/</link>
+    <pubDate>Thu, 08 May 2025 19:15:32 +0000</pubDate>
+    <guid isPermaLink="false">http://manuelcorpas.com/?p=7529</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Artificial Intelligence]]></category>
+    <category><![CDATA[GenomicEquity]]></category>
+    <category><![CDATA[Health]]></category>
+    <category><![CDATA[HealthDisparities]]></category>
+    <category><![CDATA[InclusiveScience]]></category>
+    <category><![CDATA[PrecisionMedicine]]></category>
+    <category><![CDATA[science]]></category>
+    <category><![CDATA[Technology]]></category>
+    <category><![CDATA[TheInvisibleMajority]]></category>
+    <description><![CDATA[Imagine two people walk into a hospital. Same symptoms. Same diagnosis. One receives a treatment that works like magic. The other? Nothing. Why? Because what's written in our DNA is as unique as our fingerprint.]]></description>
+    <content:encoded><![CDATA[<p>Imagine two people walk into a hospital. Same symptoms. Same diagnosis. One receives a treatment that works like magic. The other? Nothing. Why? Because what's written in our DNA is as unique as our fingerprint.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-05-08-chatgpt-moment-genomics.wav" length="983645880" type="audio/wav"/>
+    <itunes:duration>3415</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Imagine two people walk into a hospital. Same symptoms. Same diagnosis. One receives a treatment that works like magic. The other? Nothing.</itunes:summary>
+    <itunes:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/05/invisible-majority_v2.png?fit=3000%2C3000&amp;ssl=1"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Imagine two people walk into a hospital. Same symptoms. Same diagnosis. One receives a treatment that works like magic. The other? Nothing.</googleplay:description>
+    <googleplay:image href="https://i0.wp.com/manuelcorpas.com/wp-content/uploads/2025/05/invisible-majority_v2.png?fit=3000%2C3000&amp;ssl=1"/>
+  </item>
+
+</channel>
+</rss>
