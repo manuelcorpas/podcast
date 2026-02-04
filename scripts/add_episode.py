@@ -23,6 +23,7 @@ from email.utils import format_datetime
 from pathlib import Path
 
 FEED_PATH = Path(__file__).resolve().parent.parent / "feed.xml"
+INDEX_PATH = Path(__file__).resolve().parent.parent / "index.html"
 BASE_URL = "https://manuelcorpas.github.io/podcast"
 DEFAULT_IMAGE = "https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"
 
@@ -112,6 +113,35 @@ def make_item_xml(
   </item>"""
 
 
+MONTHS = [
+    "", "January", "February", "March", "April", "May", "June",
+    "July", "August", "September", "October", "November", "December",
+]
+
+
+def make_index_html_block(
+    title: str,
+    link: str,
+    date: str,
+    duration: int,
+    description: str,
+    audio_file: str,
+    mime_type: str,
+) -> str:
+    """Generate HTML block for index.html."""
+    dt = datetime.strptime(date, "%Y-%m-%d")
+    date_str = f"{dt.day} {MONTHS[dt.month]} {dt.year}"
+    minutes = duration // 60
+    return f"""    <div class="episode">
+      <h2><a href="{link}">{title}</a></h2>
+      <div class="meta">{date_str} &middot; {minutes} min</div>
+      <div class="desc">{description}</div>
+      <audio controls preload="none">
+        <source src="{audio_file}" type="{mime_type}">
+      </audio>
+    </div>"""
+
+
 def main():
     parser = argparse.ArgumentParser(description="Add episode to podcast feed")
     parser.add_argument("--title", required=True, help="Episode title")
@@ -191,12 +221,31 @@ def main():
 
     FEED_PATH.write_text(feed_text, encoding="utf-8")
 
+    # Update index.html
+    index_text = INDEX_PATH.read_text(encoding="utf-8")
+    episode_html = make_index_html_block(
+        title=args.title,
+        link=args.link,
+        date=args.date,
+        duration=duration,
+        description=args.description,
+        audio_file=args.file,
+        mime_type=mime_type,
+    )
+    # Insert after <main> tag, before the first episode
+    main_tag_pos = index_text.find("<main>")
+    if main_tag_pos != -1:
+        insert_pos = index_text.find("\n", main_tag_pos) + 1
+        index_text = index_text[:insert_pos] + "\n" + episode_html + "\n" + index_text[insert_pos:]
+    INDEX_PATH.write_text(index_text, encoding="utf-8")
+
     print(f"Added: {args.title}")
     print(f"  Audio: {audio_url}")
     print(f"  Size:  {file_size:,} bytes")
     print(f"  Duration: {duration}s ({duration // 60}m {duration % 60}s)")
     print(f"  Date:  {pub_date}")
     print(f"Feed updated: {FEED_PATH}")
+    print(f"Index updated: {INDEX_PATH}")
 
 
 if __name__ == "__main__":
