@@ -43,9 +43,9 @@
   <googleplay:explicit>false</googleplay:explicit>
   <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
 
-  <!-- Episode: Building an Agentic AI System for Personal Productivity -->
+  <!-- Episode: Building an Agentic AI System: Lessons from Six Weeks in Production -->
   <item>
-    <title>Building an Agentic AI System for Personal Productivity</title>
+    <title>Building an Agentic AI System: Lessons from Six Weeks in Production</title>
     <link>https://manuelcorpas.com/2026/02/04/building-an-agentic-ai-system/</link>
     <pubDate>Tue, 04 Feb 2026 12:00:00 +0000</pubDate>
     <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-02-04-agentic-ai-system-update.mp3</guid>
@@ -55,17 +55,19 @@
     <category><![CDATA[Technology]]></category>
     <category><![CDATA[Agentic AI]]></category>
     <category><![CDATA[Productivity]]></category>
-    <description><![CDATA[How I built a multi-agent AI system for personal productivity, integrating Claude Code, Telegram bots, ChromaDB memory, and autonomous task execution. A practical look at the architecture, lessons learned, and what agentic AI means for individual researchers.]]></description>
-    <content:encoded><![CDATA[<p>How I built a multi-agent AI system for personal productivity, integrating Claude Code, Telegram bots, ChromaDB memory, and autonomous task execution. A practical look at the architecture, lessons learned, and what agentic AI means for individual researchers.</p>]]></content:encoded>
+    <category><![CDATA[Artificial Intelligence]]></category>
+    <category><![CDATA[Automation]]></category>
+    <description><![CDATA[A practical walkthrough of building a personal agentic AI system that runs at production scale. Covering architecture (ChromaDB, Voyage AI, tiered Claude models), a nine-tool Telegram agent called RoboTerri, six automated daily jobs including ArXiv paper digests and podcast intelligence, cost engineering with three-tier model routing, and seven lessons learned from six weeks of autonomous operation.]]></description>
+    <content:encoded><![CDATA[<p>A practical walkthrough of building a personal agentic AI system that runs at production scale. Covering architecture (ChromaDB, Voyage AI, tiered Claude models), a nine-tool Telegram agent called RoboTerri, six automated daily jobs including ArXiv paper digests and podcast intelligence, cost engineering with three-tier model routing, and seven lessons learned from six weeks of autonomous operation.</p><p>Topics: ChromaDB vector database with 14 collections, Voyage AI embeddings, three-tier Claude model routing (Opus/Sonnet/Haiku), RoboTerri Telegram bot with 9 tools (memory query, calendar, audio generation, voice transcription, photo analysis), automated morning briefings, ArXiv research digests, podcast insight extraction with human-in-the-loop approval, PharmXD pharmacogenomic advisor, cost engineering from £1.50/day to 20p/day, and seven production lessons.</p>]]></content:encoded>
     <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-02-04-agentic-ai-system-update.mp3" length="9066960" type="audio/mpeg"/>
     <itunes:duration>1511</itunes:duration>
     <itunes:author>Manuel Corpas</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:summary>How I built a multi-agent AI system for personal productivity, integrating Claude Code, Telegram bots, ChromaDB memory, and autonomous task execution.</itunes:summary>
+    <itunes:summary>A practical walkthrough of building a personal agentic AI system. Covers architecture, a nine-tool Telegram agent, six automated daily jobs, cost engineering with three-tier model routing, and seven lessons from six weeks in production.</itunes:summary>
     <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
     <googleplay:author>Manuel Corpas</googleplay:author>
     <googleplay:explicit>false</googleplay:explicit>
-    <googleplay:description>How I built a multi-agent AI system for personal productivity, integrating Claude Code, Telegram bots, ChromaDB memory, and autonomous task execution.</googleplay:description>
+    <googleplay:description>A practical walkthrough of building a personal agentic AI system. Covers architecture, a nine-tool Telegram agent, six automated daily jobs, cost engineering with three-tier model routing, and seven lessons from six weeks in production.</googleplay:description>
     <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
   </item>
 
