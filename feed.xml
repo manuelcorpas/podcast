@@ -118,7 +118,7 @@
     <category><![CDATA[UK]]></category>
     <description><![CDATA[Presented at the UK-Indonesia Health Genomics Forum, London, 25 November 2025. When we speak about the future of precision medicine, it is easy to focus on the technology. Yet the real foundation of precision medicine is something much more fundamental.]]></description>
     <content:encoded><![CDATA[<p>Presented at the UK-Indonesia Health Genomics Forum, London, 25 November 2025. When we speak about the future of precision medicine, it is easy to focus on the technology. Yet the real foundation of precision medicine is something much more fundamental.</p>]]></content:encoded>
-    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-12-10-missing-pieces-genomic-diversity.wav" length="183169588" type="audio/wav"/>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-12-10-missing-pieces-genomic-diversity.mp3" length="9010219" type="audio/mpeg"/>
     <itunes:duration>636</itunes:duration>
     <itunes:author>Manuel Corpas</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -153,7 +153,7 @@
     <category><![CDATA[science]]></category>
     <description><![CDATA[By Dr Manuel Corpas. Precision medicine is built on a contradiction. The field promises individualised care calibrated to each person's biology, yet its foundations rest on data representing a fraction of humanity.]]></description>
     <content:encoded><![CDATA[<p>By Dr Manuel Corpas. Precision medicine is built on a contradiction. The field promises individualised care calibrated to each person's biology, yet its foundations rest on data representing a fraction of humanity.</p>]]></content:encoded>
-    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-12-01-precision-medicine-paradox.wav" length="1314519988" type="audio/wav"/>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-12-01-precision-medicine-paradox.mp3" length="77088043" type="audio/mpeg"/>
     <itunes:duration>4564</itunes:duration>
     <itunes:author>Manuel Corpas</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -181,7 +181,7 @@
     <category><![CDATA[Representation]]></category>
     <description><![CDATA[A recap of my presentation to Britcham Brazil, 7 October 2025. This morning I had the privilege of presenting to a distinguished audience at the British Chamber of Commerce and Industry in Brazil.]]></description>
     <content:encoded><![CDATA[<p>A recap of my presentation to Britcham Brazil, 7 October 2025. This morning I had the privilege of presenting to a distinguished audience at the British Chamber of Commerce and Industry in Brazil.</p>]]></content:encoded>
-    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-10-07-health-data-equity-latin-america.wav" length="645091662" type="audio/wav"/>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-10-07-health-data-equity-latin-america.mp3" length="43539575" type="audio/mpeg"/>
     <itunes:duration>3657</itunes:duration>
     <itunes:author>Manuel Corpas</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -212,7 +212,7 @@
     <category><![CDATA[UK Biobank]]></category>
     <description><![CDATA[Lectures from Biobanking for Data Science, a module I lead at the University of Westminster for the MSc AI Digital Health course. The research presented here is my own, specifically exploring how large language models perform when applied to biobank-related queries.]]></description>
     <content:encoded><![CDATA[<p>Lectures from Biobanking for Data Science, a module I lead at the University of Westminster for the MSc AI Digital Health course.</p>]]></content:encoded>
-    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-09-25-biobanking-meets-ai.wav" length="1630553908" type="audio/wav"/>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-09-25-biobanking-meets-ai.mp3" length="63600355" type="audio/mpeg"/>
     <itunes:duration>5662</itunes:duration>
     <itunes:author>Manuel Corpas</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -240,7 +240,7 @@
     <category><![CDATA[ScienceCommunication]]></category>
     <description><![CDATA[When I'm asked how I became a scientist, I usually smile, because the truth is, I've been aspiring to be one for over 30 years. My career didn't follow the straight path I once imagined.]]></description>
     <content:encoded><![CDATA[<p>When I'm asked how I became a scientist, I usually smile, because the truth is, I've been aspiring to be one for over 30 years. My career didn't follow the straight path I once imagined.</p>]]></content:encoded>
-    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-08-13-journey-health-equity-genomics.wav" length="537937588" type="audio/wav"/>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-08-13-journey-health-equity-genomics.mp3" length="23699611" type="audio/mpeg"/>
     <itunes:duration>1868</itunes:duration>
     <itunes:author>Manuel Corpas</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -272,7 +272,7 @@
     <category><![CDATA[GenomicDiversity]]></category>
     <description><![CDATA[Despite breathtaking advances in genomics over the past two decades, we are failing to answer a fundamental question: who benefits from this progress? The sobering truth is that the benefits of precision medicine are overwhelmingly skewed toward people of European ancestry.]]></description>
     <content:encoded><![CDATA[<p>Despite breathtaking advances in genomics over the past two decades, we are failing to answer a fundamental question: who benefits from this progress?</p>]]></content:encoded>
-    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-07-13-diversity-precision-medicine.wav" length="369517108" type="audio/wav"/>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-07-13-diversity-precision-medicine.mp3" length="16229299" type="audio/mpeg"/>
     <itunes:duration>1283</itunes:duration>
     <itunes:author>Manuel Corpas</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -300,7 +300,7 @@
     <category><![CDATA[#RightToScience]]></category>
     <description><![CDATA[Genomics holds the promise to revolutionize healthcare--offering tailored diagnoses, treatments, and prevention strategies. But this vision remains dangerously incomplete without one critical ingredient: diversity.]]></description>
     <content:encoded><![CDATA[<p>Genomics holds the promise to revolutionize healthcare--offering tailored diagnoses, treatments, and prevention strategies. But this vision remains dangerously incomplete without one critical ingredient: diversity.</p>]]></content:encoded>
-    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-06-24-bridging-diversity-gap.wav" length="155417908" type="audio/wav"/>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-06-24-bridging-diversity-gap.mp3" length="6928771" type="audio/mpeg"/>
     <itunes:duration>540</itunes:duration>
     <itunes:author>Manuel Corpas</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -329,7 +329,7 @@
     <category><![CDATA[YvesMoreau]]></category>
     <description><![CDATA[In this episode I sit down with Professor Yves Moreau from KU Leuven for a deep and thought-provoking conversation on the intersections of artificial intelligence, genomics, and society.]]></description>
     <content:encoded><![CDATA[<p>In this episode I sit down with Professor Yves Moreau from KU Leuven for a deep and thought-provoking conversation on the intersections of artificial intelligence, genomics, and society.</p>]]></content:encoded>
-    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-05-10-fireside-chat-yves-moreau.wav" length="967600440" type="audio/wav"/>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-05-10-fireside-chat-yves-moreau.mp3" length="48867307" type="audio/mpeg"/>
     <itunes:duration>3360</itunes:duration>
     <itunes:author>Manuel Corpas</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -362,7 +362,7 @@
     <category><![CDATA[TheInvisibleMajority]]></category>
     <description><![CDATA[Imagine two people walk into a hospital. Same symptoms. Same diagnosis. One receives a treatment that works like magic. The other? Nothing. Why? Because what's written in our DNA is as unique as our fingerprint.]]></description>
     <content:encoded><![CDATA[<p>Imagine two people walk into a hospital. Same symptoms. Same diagnosis. One receives a treatment that works like magic. The other? Nothing. Why? Because what's written in our DNA is as unique as our fingerprint.</p>]]></content:encoded>
-    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-05-08-chatgpt-moment-genomics.wav" length="983645880" type="audio/wav"/>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-05-08-chatgpt-moment-genomics.mp3" length="46510171" type="audio/mpeg"/>
     <itunes:duration>3415</itunes:duration>
     <itunes:author>Manuel Corpas</itunes:author>
     <itunes:explicit>false</itunes:explicit>
