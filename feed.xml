@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</description>
-  <lastBuildDate>Sat, 07 Feb 2026 20:08:17 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Feb 2026 20:30:54 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -50,6 +50,34 @@
   <!-- Episode: Genetic Diseases in the Era of Precision Medicine -->
   
   <!-- Episode: The Age of Abundance: Key Ideas from Elon Musk on Moonshots Episode 220 -->
+  
+  <!-- Episode: Building a Personal Agentic AI System: A Practitioner's Guide -->
+  <item>
+    <title>Building a Personal Agentic AI System: A Practitioner's Guide</title>
+    <link>https://manuelcorpas.substack.com/p/building-a-personal-agentic-ai-system</link>
+    <pubDate>Tue, 21 Jan 2025 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2025-01-21-building-a-personal-agentic-ai-system-a-practitioners-guide.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Technology]]></category>
+    <category><![CDATA[Tutorial]]></category>
+    <category><![CDATA[Agentic AI]]></category>
+    <category><![CDATA[Personal Knowledge Management]]></category>
+    <description><![CDATA[A detailed practitioner's guide to building personal agentic AI systems. Covers the technical stack, embedding pipelines, agent architecture, memory systems, mistakes made, real costs, and why sovereignty over your own AI matters. Built by one academic with a Mac Studio and an unwillingness to wait.]]></description>
+    <content:encoded><![CDATA[<p>A detailed practitioner's guide to building personal agentic AI systems. Covers the technical stack, embedding pipelines, agent architecture, memory systems, mistakes made, real costs, and why sovereignty over your own AI matters. Built by one academic with a Mac Studio and an unwillingness to wait.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-01-21-building-a-personal-agentic-ai-system-a-practitioners-guide.mp3" length="6002496" type="audio/mpeg"/>
+    <itunes:duration>1000</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>A detailed practitioner's guide to building personal agentic AI systems. Covers the technical stack, embedding pipelines, agent architecture, memory systems, mistakes made, real costs, and why sovereignty over your own AI matters. Built by one academic with a Mac Studio and an unwillingness to wait.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>A detailed practitioner's guide to building personal agentic AI systems. Covers the technical stack, embedding pipelines, agent architecture, memory systems, mistakes made, real costs, and why sovereignty over your own AI matters. Built by one academic with a Mac Studio and an unwillingness to wait.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>The Age of Abundance: Key Ideas from Elon Musk on Moonshots Episode 220</title>
     <link>https://www.yourgenome.org/podcast/musk-diamandis-moonshots-220</link>
