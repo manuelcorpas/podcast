@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</description>
-  <lastBuildDate>Sat, 07 Feb 2026 18:28:54 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Feb 2026 20:08:17 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -48,6 +48,34 @@
   <!-- Episode: Quantitative Confidence: Navigating Uncertainty in Genomics and Precision Medicine -->
   
   <!-- Episode: Genetic Diseases in the Era of Precision Medicine -->
+  
+  <!-- Episode: The Age of Abundance: Key Ideas from Elon Musk on Moonshots Episode 220 -->
+  <item>
+    <title>The Age of Abundance: Key Ideas from Elon Musk on Moonshots Episode 220</title>
+    <link>https://www.yourgenome.org/podcast/musk-diamandis-moonshots-220</link>
+    <pubDate>Tue, 21 Jan 2025 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2025-01-21-the-age-of-abundance-key-ideas-from-elon-musk-on-moonshots-e.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Technology]]></category>
+    <category><![CDATA[Future]]></category>
+    <category><![CDATA[Robotics]]></category>
+    <category><![CDATA[Energy]]></category>
+    <description><![CDATA[A distillation of the key ideas from a nearly three-hour conversation between Elon Musk, Peter Diamandis, and Dave Blundin at Tesla's Giga Texas, covering AGI timelines, AI safety through truth, curiosity and beauty, the white-collar displacement thesis, Universal High Income, energy as civilisational currency, humanoid robots, and the Mars imperative.]]></description>
+    <content:encoded><![CDATA[<p>A distillation of the key ideas from a nearly three-hour conversation between Elon Musk, Peter Diamandis, and Dave Blundin at Tesla's Giga Texas, covering AGI timelines, AI safety through truth, curiosity and beauty, the white-collar displacement thesis, Universal High Income, energy as civilisational currency, humanoid robots, and the Mars imperative.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2025-01-21-the-age-of-abundance-key-ideas-from-elon-musk-on-moonshots-e.mp3" length="6192720" type="audio/mpeg"/>
+    <itunes:duration>1032</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>A distillation of the key ideas from a nearly three-hour conversation between Elon Musk, Peter Diamandis, and Dave Blundin at Tesla's Giga Texas, covering AGI timelines, AI safety through truth, curiosity and beauty, the white-collar displacement thesis, Universal High Income, energy as civilisational currency, humanoid robots, and the Mars imperative.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>A distillation of the key ideas from a nearly three-hour conversation between Elon Musk, Peter Diamandis, and Dave Blundin at Tesla's Giga Texas, covering AGI timelines, AI safety through truth, curiosity and beauty, the white-collar displacement thesis, Universal High Income, energy as civilisational currency, humanoid robots, and the Mars imperative.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>Genetic Diseases in the Era of Precision Medicine</title>
     <link>https://manuelcorpas.com</link>
