@@ -216,7 +216,9 @@ def main():
         first_item_pos = feed_text.find("</channel>")
 
     # Add comment
-    comment = f"\n  <!-- Episode: {args.title} -->"
+    # Sanitise title for XML comment (double hyphens are illegal in XML comments)
+    safe_title = args.title.replace("--", "-")
+    comment = f"\n  <!-- Episode: {safe_title} -->"
     feed_text = feed_text[:first_item_pos] + comment + item_xml + "\n\n  " + feed_text[first_item_pos:]
 
     FEED_PATH.write_text(feed_text, encoding="utf-8")
