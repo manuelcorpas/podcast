@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</description>
-  <lastBuildDate>Sat, 07 Feb 2026 16:22:27 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Feb 2026 18:28:54 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -46,6 +46,33 @@
   <!-- Episode: Building an Agentic AI System: Lessons from Six Weeks in Production -->
   
   <!-- Episode: Quantitative Confidence: Navigating Uncertainty in Genomics and Precision Medicine -->
+  
+  <!-- Episode: Genetic Diseases in the Era of Precision Medicine -->
+  <item>
+    <title>Genetic Diseases in the Era of Precision Medicine</title>
+    <link>https://manuelcorpas.com</link>
+    <pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-01-30-genetic-diseases-precision-medicine.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Precision Medicine]]></category>
+    <category><![CDATA[Lecture]]></category>
+    <category><![CDATA[Health Equity]]></category>
+    <description><![CDATA[A 71-minute lecture on how genomics is transforming medicine from trial-and-error to targeted, predictive care. Covers the paradigm shift from population averages to personalised treatment, variant interpretation using ACMG guidelines, the distinction between Mendelian and complex diseases, genome-wide association studies, and next-generation sequencing. Examines the critical equity gap: 86% of genomic research participants are of European ancestry yet Europeans represent only 16% of the global population. Introduces the HEIM framework for quantifying genomic data representativeness. Includes pharmacogenomics, liquid biopsy, direct-to-consumer testing, and ethics of genomic data. Delivered at the University of Westminster, 30 January 2026.]]></description>
+    <content:encoded><![CDATA[<p>A 71-minute lecture on how genomics is transforming medicine from trial-and-error to targeted, predictive care. Covers the paradigm shift from population averages to personalised treatment, variant interpretation using ACMG guidelines, the distinction between Mendelian and complex diseases, genome-wide association studies, and next-generation sequencing. Examines the critical equity gap: 86% of genomic research participants are of European ancestry yet Europeans represent only 16% of the global population. Introduces the HEIM framework for quantifying genomic data representativeness. Includes pharmacogenomics, liquid biopsy, direct-to-consumer testing, and ethics of genomic data. Delivered at the University of Westminster, 30 January 2026.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-01-30-genetic-diseases-precision-medicine.mp3" length="68022281" type="audio/mpeg"/>
+    <itunes:duration>4251</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>A 71-minute lecture on how genomics is transforming medicine from trial-and-error to targeted, predictive care. Covers the paradigm shift from population averages to personalised treatment, variant interpretation using ACMG guidelines, the distinction between Mendelian and complex diseases, genome-wide association studies, and next-generation sequencing. Examines the critical equity gap: 86% of genomic research participants are of European ancestry yet Europeans represent only 16% of the global population. Introduces the HEIM framework for quantifying genomic data representativeness. Includes pharmacogenomics, liquid biopsy, direct-to-consumer testing, and ethics of genomic data. Delivered at the University of Westminster, 30 January 2026.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>A 71-minute lecture on how genomics is transforming medicine from trial-and-error to targeted, predictive care. Covers the paradigm shift from population averages to personalised treatment, variant interpretation using ACMG guidelines, the distinction between Mendelian and complex diseases, genome-wide association studies, and next-generation sequencing. Examines the critical equity gap: 86% of genomic research participants are of European ancestry yet Europeans represent only 16% of the global population. Introduces the HEIM framework for quantifying genomic data representativeness. Includes pharmacogenomics, liquid biopsy, direct-to-consumer testing, and ethics of genomic data. Delivered at the University of Westminster, 30 January 2026.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>Quantitative Confidence: Navigating Uncertainty in Genomics and Precision Medicine</title>
     <link>https://manuelcorpas.com/podcast/quantitative-confidence</link>
