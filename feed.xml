@@ -45,8 +45,6 @@
 
   <!-- Episode: Building an Agentic AI System: Lessons from Six Weeks in Production -->
   
-  <!-- Episode: Top 1% Playbook - Week of 2026-02-07 -->
-  
   <!-- Episode: Quantitative Confidence: Navigating Uncertainty in Genomics and Precision Medicine -->
   <item>
     <title>Quantitative Confidence: Navigating Uncertainty in Genomics and Precision Medicine</title>
@@ -73,30 +71,6 @@
     <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
   </item>
 
-  <item>
-    <title>Top 1% Playbook -- Week of 2026-02-07</title>
-    <link>https://manuelcorpas.com</link>
-    <pubDate>Sat, 07 Feb 2026 12:00:00 +0000</pubDate>
-    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-02-07-top1-playbook.mp3</guid>
-    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
-    <category><![CDATA[Research]]></category>
-    <category><![CDATA[Podcast]]></category>
-    <category><![CDATA[Strategy]]></category>
-    <category><![CDATA[Genomics]]></category>
-    <category><![CDATA[AI]]></category>
-    <description><![CDATA[Weekly strategic research review for 2026-02-07.]]></description>
-    <content:encoded><![CDATA[<p>Weekly strategic research review for 2026-02-07.</p>]]></content:encoded>
-    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-02-07-top1-playbook.mp3" length="9884777" type="audio/mpeg"/>
-    <itunes:duration>617</itunes:duration>
-    <itunes:author>Manuel Corpas</itunes:author>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:summary>Weekly strategic research review for 2026-02-07.</itunes:summary>
-    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
-    <googleplay:author>Manuel Corpas</googleplay:author>
-    <googleplay:explicit>false</googleplay:explicit>
-    <googleplay:description>Weekly strategic research review for 2026-02-07.</googleplay:description>
-    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
-  </item>
 
   <item>
     <title>Building an Agentic AI System: Lessons from Six Weeks in Production</title>
