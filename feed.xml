@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</description>
-  <lastBuildDate>Sat, 07 Feb 2026 20:30:54 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Feb 2026 13:57:07 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -52,6 +52,32 @@
   <!-- Episode: The Age of Abundance: Key Ideas from Elon Musk on Moonshots Episode 220 -->
   
   <!-- Episode: Building a Personal Agentic AI System: A Practitioner's Guide -->
+  
+  <!-- Episode: 10 Tips for Becoming a Top 1% AI User -->
+  <item>
+    <title>10 Tips for Becoming a Top 1% AI User</title>
+    <link>https://manuelcorpas.substack.com</link>
+    <pubDate>Sun, 08 Feb 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-02-08-10-tips-top-1-percent-ai-user.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Technology]]></category>
+    <category><![CDATA[Productivity]]></category>
+    <description><![CDATA[What separates casual AI users from the top 1%? Drawing on lessons from building a personal agentic AI system over six months and insights from Calvin French-Owen (co-founder of Segment, former OpenAI Codex team), this episode covers ten practical strategies: building persistent memory systems, mastering context management, test-driven AI workflows, moving from chatbots to agents, automating intelligence pipelines, clearing context aggressively, thinking like an engineering manager, keeping your workspace clean, shipping citable artifacts weekly, and building for sovereignty over your own AI.]]></description>
+    <content:encoded><![CDATA[<p>What separates casual AI users from the top 1%? Drawing on lessons from building a personal agentic AI system over six months and insights from Calvin French-Owen (co-founder of Segment, former OpenAI Codex team), this episode covers ten practical strategies: building persistent memory systems, mastering context management, test-driven AI workflows, moving from chatbots to agents, automating intelligence pipelines, clearing context aggressively, thinking like an engineering manager, keeping your workspace clean, shipping citable artifacts weekly, and building for sovereignty over your own AI.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-02-08-10-tips-top-1-percent-ai-user.mp3" length="6356592" type="audio/mpeg"/>
+    <itunes:duration>1059</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>What separates casual AI users from the top 1%? Drawing on lessons from building a personal agentic AI system over six months and insights from Calvin French-Owen (co-founder of Segment, former OpenAI Codex team), this episode covers ten practical strategies: building persistent memory systems, mastering context management, test-driven AI workflows, moving from chatbots to agents, automating intelligence pipelines, clearing context aggressively, thinking like an engineering manager, keeping your workspace clean, shipping citable artifacts weekly, and building for sovereignty over your own AI.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>What separates casual AI users from the top 1%? Drawing on lessons from building a personal agentic AI system over six months and insights from Calvin French-Owen (co-founder of Segment, former OpenAI Codex team), this episode covers ten practical strategies: building persistent memory systems, mastering context management, test-driven AI workflows, moving from chatbots to agents, automating intelligence pipelines, clearing context aggressively, thinking like an engineering manager, keeping your workspace clean, shipping citable artifacts weekly, and building for sovereignty over your own AI.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>Building a Personal Agentic AI System: A Practitioner's Guide</title>
     <link>https://manuelcorpas.substack.com/p/building-a-personal-agentic-ai-system</link>
