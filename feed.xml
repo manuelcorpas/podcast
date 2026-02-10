@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</description>
-  <lastBuildDate>Sun, 08 Feb 2026 13:57:07 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Feb 2026 10:43:24 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -54,6 +54,33 @@
   <!-- Episode: Building a Personal Agentic AI System: A Practitioner's Guide -->
   
   <!-- Episode: 10 Tips for Becoming a Top 1% AI User -->
+  
+  <!-- Episode: How to Learn AI With AI: 7 Actionable Insights for Researchers -->
+  <item>
+    <title>How to Learn AI With AI: 7 Actionable Insights for Researchers</title>
+    <link>https://manuelcorpas.com/2026/02/10/learning-ai-with-ai</link>
+    <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-02-10-how-to-learn-ai-with-ai-7-actionable-insights-for-researcher.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Research]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Productivity]]></category>
+    <description><![CDATA[Seven actionable insights for researchers on using AI as a learning partner: pair-programming with LLMs, handoff documents, project organisation, autonomous agents, voice interfaces, AI-to-AI orchestration, and context-first prompting.]]></description>
+    <content:encoded><![CDATA[<p>Seven actionable insights for researchers on using AI as a learning partner: pair-programming with LLMs, handoff documents, project organisation, autonomous agents, voice interfaces, AI-to-AI orchestration, and context-first prompting.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-02-10-how-to-learn-ai-with-ai-7-actionable-insights-for-researcher.mp3" length="6577776" type="audio/mpeg"/>
+    <itunes:duration>1096</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Seven actionable insights for researchers on using AI as a learning partner: pair-programming with LLMs, handoff documents, project organisation, autonomous agents, voice interfaces, AI-to-AI orchestration, and context-first prompting.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Seven actionable insights for researchers on using AI as a learning partner: pair-programming with LLMs, handoff documents, project organisation, autonomous agents, voice interfaces, AI-to-AI orchestration, and context-first prompting.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>10 Tips for Becoming a Top 1% AI User</title>
     <link>https://manuelcorpas.substack.com</link>
