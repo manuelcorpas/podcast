@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</description>
-  <lastBuildDate>Tue, 10 Feb 2026 10:43:24 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Feb 2026 11:44:40 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -56,6 +56,33 @@
   <!-- Episode: 10 Tips for Becoming a Top 1% AI User -->
   
   <!-- Episode: How to Learn AI With AI: 7 Actionable Insights for Researchers -->
+  
+  <!-- Episode: Vibe Coding: How I Built AI Research Infrastructure Without Engineering Training -->
+  <item>
+    <title>Vibe Coding: How I Built AI Research Infrastructure Without Engineering Training</title>
+    <link>https://manuelcorpas.com/2026/02/11/vibe-coding-ai-research-infrastructure/</link>
+    <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-02-11-vibe-coding-how-i-built-ai-research-infrastructure-without-e.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Research]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Productivity]]></category>
+    <description><![CDATA[How I built a complete AI research infrastructure -- from personal knowledge base to automated pipelines -- without software engineering training. Practical lessons on vibe coding, the six-layer RAG architecture, and leveraging domain expertise to build tools that matter.]]></description>
+    <content:encoded><![CDATA[<p>How I built a complete AI research infrastructure -- from personal knowledge base to automated pipelines -- without software engineering training. Practical lessons on vibe coding, the six-layer RAG architecture, and leveraging domain expertise to build tools that matter.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-02-11-vibe-coding-how-i-built-ai-research-infrastructure-without-e.mp3" length="5314464" type="audio/mpeg"/>
+    <itunes:duration>885</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>How I built a complete AI research infrastructure -- from personal knowledge base to automated pipelines -- without software engineering training. Practical lessons on vibe coding, the six-layer RAG architecture, and leveraging domain expertise to build tools that matter.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>How I built a complete AI research infrastructure -- from personal knowledge base to automated pipelines -- without software engineering training. Practical lessons on vibe coding, the six-layer RAG architecture, and leveraging domain expertise to build tools that matter.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>How to Learn AI With AI: 7 Actionable Insights for Researchers</title>
     <link>https://manuelcorpas.com/2026/02/10/learning-ai-with-ai</link>
