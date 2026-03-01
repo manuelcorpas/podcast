@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</description>
-  <lastBuildDate>Thu, 19 Feb 2026 15:52:00 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Mar 2026 13:34:49 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -41,7 +41,34 @@
   <googleplay:owner>mc@manuelcorpas.com</googleplay:owner>
   <googleplay:email>mc@manuelcorpas.com</googleplay:email>
   <googleplay:explicit>false</googleplay:explicit>
-  <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/><item>
+  <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  <!-- Episode: Peter Steinberger Keynote: Building Open-Source AI Agents — UK AI Agent Hack, Imperial College -->
+  <item>
+    <title>Peter Steinberger Keynote: Building Open-Source AI Agents — UK AI Agent Hack, Imperial College</title>
+    <link>https://manuelcorpas.com/2026/03/01/peter-steinberger-keynote-uk-ai-agent-hack/</link>
+    <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-03-01-peter-steinberger-ai-agent-hack-imperial-college.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Agents]]></category>
+    <category><![CDATA[Open Source]]></category>
+    <category><![CDATA[Hackathon]]></category>
+    <description><![CDATA[Peter Steinberger delivers the keynote at the UK AI Agent Hack at Imperial College London. He discusses building open-source AI agent tooling, setting up a foundation with David Morin to accept donations and hire full-time contributors, learning by building rather than reading, the exchange loop as the 'hello world' of AI agents, and why prompt injection remains an unsolved industry problem that should discourage one-click installations for non-technical users.]]></description>
+    <content:encoded><![CDATA[<p>Peter Steinberger delivers the keynote at the UK AI Agent Hack at Imperial College London. He discusses building open-source AI agent tooling, setting up a foundation with David Morin to accept donations and hire full-time contributors, learning by building rather than reading, the exchange loop as the 'hello world' of AI agents, and why prompt injection remains an unsolved industry problem that should discourage one-click installations for non-technical users.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-03-01-peter-steinberger-ai-agent-hack-imperial-college.mp3" length="11119309" type="audio/mpeg"/>
+    <itunes:duration>926</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Peter Steinberger delivers the keynote at the UK AI Agent Hack at Imperial College London. He discusses building open-source AI agent tooling, setting up a foundation with David Morin to accept donations and hire full-time contributors, learning by building rather than reading, the exchange loop as the 'hello world' of AI agents, and why prompt injection remains an unsolved industry problem that should discourage one-click installations for non-technical users.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Peter Steinberger delivers the keynote at the UK AI Agent Hack at Imperial College London. He discusses building open-source AI agent tooling, setting up a foundation with David Morin to accept donations and hire full-time contributors, learning by building rather than reading, the exchange loop as the 'hello world' of AI agents, and why prompt injection remains an unsolved industry problem that should discourage one-click installations for non-technical users.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
+  <item>
     <title>Vibe Coding: How I Built AI Research Infrastructure Without Engineering Training</title>
     <link>https://manuelcorpas.com/2026/02/11/vibe-coding-ai-research-infrastructure/</link>
     <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
