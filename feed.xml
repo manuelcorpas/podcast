@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</description>
-  <lastBuildDate>Sat, 07 Mar 2026 17:24:27 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 15:42:15 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -45,6 +45,33 @@
   <!-- Episode: Peter Steinberger Keynote: Building Open-Source AI Agents — UK AI Agent Hack, Imperial College -->
   
   <!-- Episode: ClawBio at DoraHacks Demo Day, Imperial College London -->
+  
+  <!-- Episode: Agentic Genomics: Living Through the AI Revolution as a Genomicist -->
+  <item>
+    <title>Agentic Genomics: Living Through the AI Revolution as a Genomicist</title>
+    <link>https://www.youtube.com/watch?v=uLOQppVIV8M</link>
+    <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-03-09-agentic-genomics.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Bioinformatics]]></category>
+    <category><![CDATA[ClawBio]]></category>
+    <description><![CDATA[Dr Manuel Corpas introduces Agentic Genomics — a framework for how AI agents are transforming bioinformatics. Covers the HEIM equity framework, bias amplification in genomic AI, ClawBio skill library, and why deep human intelligence remains the bottleneck. Recorded 9 March 2026.]]></description>
+    <content:encoded><![CDATA[<p>Dr Manuel Corpas introduces Agentic Genomics — a framework for how AI agents are transforming bioinformatics. Covers the HEIM equity framework, bias amplification in genomic AI, ClawBio skill library, and why deep human intelligence remains the bottleneck. Recorded 9 March 2026.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-03-09-agentic-genomics.mp3" length="88204572" type="audio/mpeg"/>
+    <itunes:duration>5512</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Dr Manuel Corpas introduces Agentic Genomics — a framework for how AI agents are transforming bioinformatics. Covers the HEIM equity framework, bias amplification in genomic AI, ClawBio skill library, and why deep human intelligence remains the bottleneck. Recorded 9 March 2026.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Dr Manuel Corpas introduces Agentic Genomics — a framework for how AI agents are transforming bioinformatics. Covers the HEIM equity framework, bias amplification in genomic AI, ClawBio skill library, and why deep human intelligence remains the bottleneck. Recorded 9 March 2026.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>ClawBio at DoraHacks Demo Day, Imperial College London</title>
     <link>https://www.youtube.com/watch?v=vxUDdjXMFwk</link>
