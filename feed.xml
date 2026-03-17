@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</description>
-  <lastBuildDate>Sat, 14 Mar 2026 08:44:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Mar 2026 14:19:37 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -49,6 +49,36 @@
   <!-- Episode: Agentic Genomics: Living Through the AI Revolution as a Genomicist -->
   
   <!-- Episode: The Future of Genomics is Agentic -->
+  
+  <!-- Episode: The Bias Amplification Cascade: How Structural Inequities Propagate Through AI -->
+  <item>
+    <title>The Bias Amplification Cascade: How Structural Inequities Propagate Through AI</title>
+    <link>https://manuelcorpas.github.io/17-EHR/</link>
+    <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-03-12-bias-amplification-cascade.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Health Equity]]></category>
+    <category><![CDATA[HEIM]]></category>
+    <category><![CDATA[Bias]]></category>
+    <category><![CDATA[LLM]]></category>
+    <category><![CDATA[Neglected Diseases]]></category>
+    <description><![CDATA[Dr Manuel Corpas presents the HEIM framework and Bias Amplification Cascade at the Molecular Science Research Hub seminar (12 March 2026). The talk covers three dimensions of compounding neglect in biomedical research: discovery (70 biobanks, 38,595 publications), translation (563,725 clinical trials), and knowledge (13.1M PubMed abstracts). Key findings: no neglected tropical disease has generated a single biobank publication; 93.5% of biobank research comes from high-income countries; and structural metrics predict 66.6% of LLM performance variance across 175 diseases. Six frontier LLMs benchmarked on 10,500 standardised queries show identical blind spots, proving the bias originates in shared training data, not model architecture. The talk concludes with the HIV/AIDS case as proof that sustained investment can reverse semantic isolation.]]></description>
+    <content:encoded><![CDATA[<p>Dr Manuel Corpas presents the HEIM framework and Bias Amplification Cascade at the Molecular Science Research Hub seminar (12 March 2026). The talk covers three dimensions of compounding neglect in biomedical research: discovery (70 biobanks, 38,595 publications), translation (563,725 clinical trials), and knowledge (13.1M PubMed abstracts). Key findings: no neglected tropical disease has generated a single biobank publication; 93.5% of biobank research comes from high-income countries; and structural metrics predict 66.6% of LLM performance variance across 175 diseases. Six frontier LLMs benchmarked on 10,500 standardised queries show identical blind spots, proving the bias originates in shared training data, not model architecture. The talk concludes with the HIV/AIDS case as proof that sustained investment can reverse semantic isolation.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-03-12-bias-amplification-cascade.mp3" length="50698889" type="audio/mpeg"/>
+    <itunes:duration>3168</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Dr Manuel Corpas presents the HEIM framework and Bias Amplification Cascade at the Molecular Science Research Hub seminar (12 March 2026). The talk covers three dimensions of compounding neglect in biomedical research: discovery (70 biobanks, 38,595 publications), translation (563,725 clinical trials), and knowledge (13.1M PubMed abstracts). Key findings: no neglected tropical disease has generated a single biobank publication; 93.5% of biobank research comes from high-income countries; and structural metrics predict 66.6% of LLM performance variance across 175 diseases. Six frontier LLMs benchmarked on 10,500 standardised queries show identical blind spots, proving the bias originates in shared training data, not model architecture. The talk concludes with the HIV/AIDS case as proof that sustained investment can reverse semantic isolation.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Dr Manuel Corpas presents the HEIM framework and Bias Amplification Cascade at the Molecular Science Research Hub seminar (12 March 2026). The talk covers three dimensions of compounding neglect in biomedical research: discovery (70 biobanks, 38,595 publications), translation (563,725 clinical trials), and knowledge (13.1M PubMed abstracts). Key findings: no neglected tropical disease has generated a single biobank publication; 93.5% of biobank research comes from high-income countries; and structural metrics predict 66.6% of LLM performance variance across 175 diseases. Six frontier LLMs benchmarked on 10,500 standardised queries show identical blind spots, proving the bias originates in shared training data, not model architecture. The talk concludes with the HIV/AIDS case as proof that sustained investment can reverse semantic isolation.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>The Future of Genomics is Agentic</title>
     <link>https://manuelcorpas.substack.com</link>
