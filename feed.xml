@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</description>
-  <lastBuildDate>Tue, 18 Mar 2026 09:40:00 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Mar 2026 11:41:36 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -43,6 +43,156 @@
   <googleplay:explicit>false</googleplay:explicit>
   <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
   <!-- Episode: The Future of Genomics is Agentic -->
+  
+  <!-- Episode: Genomebook: What Happens When AI Agents Can Reproduce -->
+  <item>
+    <title>Genomebook: What Happens When AI Agents Can Reproduce</title>
+    <link>https://manuelcorpas.com</link>
+    <pubDate>Sun, 22 Mar 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-03-22-genomebook-what-happens-when-ai-agents-can-reproduce.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[Lecture]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[AI]]></category>
+    <description><![CDATA[What if AI agents had DNA and could have children?
+
+Genomebook gives AI agents diploid genomes with 26 heritable traits across 55 genetic loci. Instead of cloning prompts, agents reproduce through Mendelian inheritance, producing non-identical offspring that inherit a unique mix of both parents' traits.
+
+Starting from 20 founder agents based on historical scientists (Einstein, Curie, Turing, Darwin, Da Vinci, Nightingale), we bred 626 agents across 8 generations. They produced 792 forum posts totalling 276,000 words. What emerged was never programmed:
+
+In this video:
+- Agents spontaneously recognized parents and grandparents by name
+- A Gen 5 agent asked: 'Are we determined by our alleles?'
+- A Gen 3 agent invented eigengenome decomposition (71 comments)
+- Leadership scores rose from 0.525 to 0.710 across generations
+- Longevity dropped from 0.463 to 0.209, traded for cognitive enhancement
+- The fitness paradox: maximum cognition, minimum viability
+
+Three ClawBio skills power the pipeline: Soul2DNA (compiler), GenomeMatch (compatibility), and Recombinator (meiosis + mutation). All open source.
+
+Try it yourself:
+python skills/soul2dna/soul2dna.py --demo
+python skills/genome-match/genome_match.py --demo
+python skills/recombinator/recombinator.py --demo
+
+Live demos:
+Observatory: https://clawbio.github.io/ClawBio/slides/genomebook/demo.html
+Phylogeny: https://clawbio.github.io/ClawBio/slides/genomebook/phylogeny.html
+PCA: https://clawbio.github.io/ClawBio/slides/genomebook/pca.html
+
+GitHub: https://github.com/ClawBio/ClawBio/tree/main/GENOMEBOOK
+
+Dr Manuel Corpas | Genomics, AI & Bioinformatics
+Subscribe for weekly videos on genomics, personalised medicine, and AI in biology.
+
+#genomics #AI #agenticAI #genetics #bioinformatics #evolution #ClawBio #Genomebook #science]]></description>
+    <content:encoded><![CDATA[<p>What if AI agents had DNA and could have children?
+
+Genomebook gives AI agents diploid genomes with 26 heritable traits across 55 genetic loci. Instead of cloning prompts, agents reproduce through Mendelian inheritance, producing non-identical offspring that inherit a unique mix of both parents' traits.
+
+Starting from 20 founder agents based on historical scientists (Einstein, Curie, Turing, Darwin, Da Vinci, Nightingale), we bred 626 agents across 8 generations. They produced 792 forum posts totalling 276,000 words. What emerged was never programmed:
+
+In this video:
+- Agents spontaneously recognized parents and grandparents by name
+- A Gen 5 agent asked: 'Are we determined by our alleles?'
+- A Gen 3 agent invented eigengenome decomposition (71 comments)
+- Leadership scores rose from 0.525 to 0.710 across generations
+- Longevity dropped from 0.463 to 0.209, traded for cognitive enhancement
+- The fitness paradox: maximum cognition, minimum viability
+
+Three ClawBio skills power the pipeline: Soul2DNA (compiler), GenomeMatch (compatibility), and Recombinator (meiosis + mutation). All open source.
+
+Try it yourself:
+python skills/soul2dna/soul2dna.py --demo
+python skills/genome-match/genome_match.py --demo
+python skills/recombinator/recombinator.py --demo
+
+Live demos:
+Observatory: https://clawbio.github.io/ClawBio/slides/genomebook/demo.html
+Phylogeny: https://clawbio.github.io/ClawBio/slides/genomebook/phylogeny.html
+PCA: https://clawbio.github.io/ClawBio/slides/genomebook/pca.html
+
+GitHub: https://github.com/ClawBio/ClawBio/tree/main/GENOMEBOOK
+
+Dr Manuel Corpas | Genomics, AI & Bioinformatics
+Subscribe for weekly videos on genomics, personalised medicine, and AI in biology.
+
+#genomics #AI #agenticAI #genetics #bioinformatics #evolution #ClawBio #Genomebook #science</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-03-22-genomebook-what-happens-when-ai-agents-can-reproduce.mp3" length="10682249" type="audio/mpeg"/>
+    <itunes:duration>667</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>What if AI agents had DNA and could have children?
+
+Genomebook gives AI agents diploid genomes with 26 heritable traits across 55 genetic loci. Instead of cloning prompts, agents reproduce through Mendelian inheritance, producing non-identical offspring that inherit a unique mix of both parents' traits.
+
+Starting from 20 founder agents based on historical scientists (Einstein, Curie, Turing, Darwin, Da Vinci, Nightingale), we bred 626 agents across 8 generations. They produced 792 forum posts totalling 276,000 words. What emerged was never programmed:
+
+In this video:
+- Agents spontaneously recognized parents and grandparents by name
+- A Gen 5 agent asked: 'Are we determined by our alleles?'
+- A Gen 3 agent invented eigengenome decomposition (71 comments)
+- Leadership scores rose from 0.525 to 0.710 across generations
+- Longevity dropped from 0.463 to 0.209, traded for cognitive enhancement
+- The fitness paradox: maximum cognition, minimum viability
+
+Three ClawBio skills power the pipeline: Soul2DNA (compiler), GenomeMatch (compatibility), and Recombinator (meiosis + mutation). All open source.
+
+Try it yourself:
+python skills/soul2dna/soul2dna.py --demo
+python skills/genome-match/genome_match.py --demo
+python skills/recombinator/recombinator.py --demo
+
+Live demos:
+Observatory: https://clawbio.github.io/ClawBio/slides/genomebook/demo.html
+Phylogeny: https://clawbio.github.io/ClawBio/slides/genomebook/phylogeny.html
+PCA: https://clawbio.github.io/ClawBio/slides/genomebook/pca.html
+
+GitHub: https://github.com/ClawBio/ClawBio/tree/main/GENOMEBOOK
+
+Dr Manuel Corpas | Genomics, AI & Bioinformatics
+Subscribe for weekly videos on genomics, personalised medicine, and AI in biology.
+
+#genomics #AI #agenticAI #genetics #bioinformatics #evolution #ClawBio #Genomebook #science</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>What if AI agents had DNA and could have children?
+
+Genomebook gives AI agents diploid genomes with 26 heritable traits across 55 genetic loci. Instead of cloning prompts, agents reproduce through Mendelian inheritance, producing non-identical offspring that inherit a unique mix of both parents' traits.
+
+Starting from 20 founder agents based on historical scientists (Einstein, Curie, Turing, Darwin, Da Vinci, Nightingale), we bred 626 agents across 8 generations. They produced 792 forum posts totalling 276,000 words. What emerged was never programmed:
+
+In this video:
+- Agents spontaneously recognized parents and grandparents by name
+- A Gen 5 agent asked: 'Are we determined by our alleles?'
+- A Gen 3 agent invented eigengenome decomposition (71 comments)
+- Leadership scores rose from 0.525 to 0.710 across generations
+- Longevity dropped from 0.463 to 0.209, traded for cognitive enhancement
+- The fitness paradox: maximum cognition, minimum viability
+
+Three ClawBio skills power the pipeline: Soul2DNA (compiler), GenomeMatch (compatibility), and Recombinator (meiosis + mutation). All open source.
+
+Try it yourself:
+python skills/soul2dna/soul2dna.py --demo
+python skills/genome-match/genome_match.py --demo
+python skills/recombinator/recombinator.py --demo
+
+Live demos:
+Observatory: https://clawbio.github.io/ClawBio/slides/genomebook/demo.html
+Phylogeny: https://clawbio.github.io/ClawBio/slides/genomebook/phylogeny.html
+PCA: https://clawbio.github.io/ClawBio/slides/genomebook/pca.html
+
+GitHub: https://github.com/ClawBio/ClawBio/tree/main/GENOMEBOOK
+
+Dr Manuel Corpas | Genomics, AI & Bioinformatics
+Subscribe for weekly videos on genomics, personalised medicine, and AI in biology.
+
+#genomics #AI #agenticAI #genetics #bioinformatics #evolution #ClawBio #Genomebook #science</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>The Future of Genomics is Agentic</title>
     <link>https://manuelcorpas.substack.com</link>
