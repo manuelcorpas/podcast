@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</description>
-  <lastBuildDate>Sun, 22 Mar 2026 11:41:36 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Mar 2026 07:35:04 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -45,6 +45,125 @@
   <!-- Episode: The Future of Genomics is Agentic -->
   
   <!-- Episode: Genomebook: What Happens When AI Agents Can Reproduce -->
+  
+  <!-- Episode: Big Data, Agentic AI, and the Future of Genomic Medicine | Dr Manuel Corpas -->
+  <item>
+    <title>Big Data, Agentic AI, and the Future of Genomic Medicine | Dr Manuel Corpas</title>
+    <link>https://www.youtube.com/watch?v=zTW-N-VxU5c</link>
+    <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-03-25-big-data-agentic-ai-and-the-future-of-genomic-medicine-|-dr-.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[Lecture]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Big Data]]></category>
+    <description><![CDATA[Big Data in Health: Agentic AI and the Future of Genomic Medicine
+
+Dr Manuel Corpas | University of Westminster | Cellular & Molecular Pathology Guest Lecture
+Recorded 25 March 2026
+
+In this lecture I cover:
+- How big data is transforming our understanding of health and disease
+- The UK Biobank and national genome projects
+- Why 86% of genomic data comes from European populations and what that means for everyone else
+- The HEIM framework for measuring health equity in genomics
+- What agentic AI means for bioinformatics: from weeks to hours
+- ClawBio: open-source agentic skills for biology (400+ GitHub stars)
+- The bias amplification cascade: how AI makes genomic inequality worse
+- Pharmacogenomics and why your DNA determines your drug response
+- Practical survival rules for the agentic era
+
+This lecture bridges precision medicine, biobank science, and the agentic AI revolution transforming genomics research.
+
+Resources:
+- ClawBio: https://clawbio.ai
+- GitHub: https://github.com/ClawBio/ClawBio
+- HEIM paper: https://doi.org/10.1101/2024.02.12.24302710
+
+#genomics #bioinformatics #AI #BigData #PrecisionMedicine #UKBiobank #AgenticAI #ClawBio #HealthEquity #pharmacogenomics]]></description>
+    <content:encoded><![CDATA[<p>Big Data in Health: Agentic AI and the Future of Genomic Medicine
+
+Dr Manuel Corpas | University of Westminster | Cellular & Molecular Pathology Guest Lecture
+Recorded 25 March 2026
+
+In this lecture I cover:
+- How big data is transforming our understanding of health and disease
+- The UK Biobank and national genome projects
+- Why 86% of genomic data comes from European populations and what that means for everyone else
+- The HEIM framework for measuring health equity in genomics
+- What agentic AI means for bioinformatics: from weeks to hours
+- ClawBio: open-source agentic skills for biology (400+ GitHub stars)
+- The bias amplification cascade: how AI makes genomic inequality worse
+- Pharmacogenomics and why your DNA determines your drug response
+- Practical survival rules for the agentic era
+
+This lecture bridges precision medicine, biobank science, and the agentic AI revolution transforming genomics research.
+
+Resources:
+- ClawBio: https://clawbio.ai
+- GitHub: https://github.com/ClawBio/ClawBio
+- HEIM paper: https://doi.org/10.1101/2024.02.12.24302710
+
+#genomics #bioinformatics #AI #BigData #PrecisionMedicine #UKBiobank #AgenticAI #ClawBio #HealthEquity #pharmacogenomics</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-03-25-big-data-agentic-ai-and-the-future-of-genomic-medicine-|-dr-.mp3" length="61035785" type="audio/mpeg"/>
+    <itunes:duration>3814</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Big Data in Health: Agentic AI and the Future of Genomic Medicine
+
+Dr Manuel Corpas | University of Westminster | Cellular & Molecular Pathology Guest Lecture
+Recorded 25 March 2026
+
+In this lecture I cover:
+- How big data is transforming our understanding of health and disease
+- The UK Biobank and national genome projects
+- Why 86% of genomic data comes from European populations and what that means for everyone else
+- The HEIM framework for measuring health equity in genomics
+- What agentic AI means for bioinformatics: from weeks to hours
+- ClawBio: open-source agentic skills for biology (400+ GitHub stars)
+- The bias amplification cascade: how AI makes genomic inequality worse
+- Pharmacogenomics and why your DNA determines your drug response
+- Practical survival rules for the agentic era
+
+This lecture bridges precision medicine, biobank science, and the agentic AI revolution transforming genomics research.
+
+Resources:
+- ClawBio: https://clawbio.ai
+- GitHub: https://github.com/ClawBio/ClawBio
+- HEIM paper: https://doi.org/10.1101/2024.02.12.24302710
+
+#genomics #bioinformatics #AI #BigData #PrecisionMedicine #UKBiobank #AgenticAI #ClawBio #HealthEquity #pharmacogenomics</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Big Data in Health: Agentic AI and the Future of Genomic Medicine
+
+Dr Manuel Corpas | University of Westminster | Cellular & Molecular Pathology Guest Lecture
+Recorded 25 March 2026
+
+In this lecture I cover:
+- How big data is transforming our understanding of health and disease
+- The UK Biobank and national genome projects
+- Why 86% of genomic data comes from European populations and what that means for everyone else
+- The HEIM framework for measuring health equity in genomics
+- What agentic AI means for bioinformatics: from weeks to hours
+- ClawBio: open-source agentic skills for biology (400+ GitHub stars)
+- The bias amplification cascade: how AI makes genomic inequality worse
+- Pharmacogenomics and why your DNA determines your drug response
+- Practical survival rules for the agentic era
+
+This lecture bridges precision medicine, biobank science, and the agentic AI revolution transforming genomics research.
+
+Resources:
+- ClawBio: https://clawbio.ai
+- GitHub: https://github.com/ClawBio/ClawBio
+- HEIM paper: https://doi.org/10.1101/2024.02.12.24302710
+
+#genomics #bioinformatics #AI #BigData #PrecisionMedicine #UKBiobank #AgenticAI #ClawBio #HealthEquity #pharmacogenomics</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>Genomebook: What Happens When AI Agents Can Reproduce</title>
     <link>https://manuelcorpas.com</link>
