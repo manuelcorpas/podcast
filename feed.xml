@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</description>
-  <lastBuildDate>Wed, 01 Apr 2026 07:11:38 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Apr 2026 20:54:56 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -55,6 +55,34 @@
   <!-- Episode: I Run My Research Lab With AI Agents -->
   
   <!-- Episode: ClawBio: A Four-Lens Evaluation — Funder, CEO, Scientist, Technologist -->
+  
+  <!-- Episode: Agentic Genomics: From Pipeline Automation to Autonomous Validation -->
+  <item>
+    <title>Agentic Genomics: From Pipeline Automation to Autonomous Validation</title>
+    <link>https://manuelcorpas.github.io/podcast</link>
+    <pubDate>Sat, 04 Apr 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-04-04-agentic-genomics-perspective.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[AgenticAI]]></category>
+    <category><![CDATA[Bioinformatics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Research]]></category>
+    <description><![CDATA[What happens when AI agents can autonomously discover, execute, and chain genomic analyses using natural language? This episode introduces the concept of agentic genomics and explores how it is reshaping who can do genomics, how fast, and what questions they can ask. We examine the emerging ecosystem of agentic systems, the critical validation challenges they create, the equity implications of automating genomic analysis at scale, and a five-principle framework for responsible adoption. Based on a Perspective submitted to a leading genomics journal.]]></description>
+    <content:encoded><![CDATA[<p>What happens when AI agents can autonomously discover, execute, and chain genomic analyses using natural language? This episode introduces the concept of agentic genomics and explores how it is reshaping who can do genomics, how fast, and what questions they can ask. We examine the emerging ecosystem of agentic systems, the critical validation challenges they create, the equity implications of automating genomic analysis at scale, and a five-principle framework for responsible adoption. Based on a Perspective submitted to a leading genomics journal.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-04-04-agentic-genomics-perspective.mp3" length="21084524" type="audio/mpeg"/>
+    <itunes:duration>1054</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>What happens when AI agents can autonomously discover, execute, and chain genomic analyses using natural language? This episode introduces the concept of agentic genomics and explores how it is reshaping who can do genomics, how fast, and what questions they can ask. We examine the emerging ecosystem of agentic systems, the critical validation challenges they create, the equity implications of automating genomic analysis at scale, and a five-principle framework for responsible adoption. Based on a Perspective submitted to a leading genomics journal.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>What happens when AI agents can autonomously discover, execute, and chain genomic analyses using natural language? This episode introduces the concept of agentic genomics and explores how it is reshaping who can do genomics, how fast, and what questions they can ask. We examine the emerging ecosystem of agentic systems, the critical validation challenges they create, the equity implications of automating genomic analysis at scale, and a five-principle framework for responsible adoption. Based on a Perspective submitted to a leading genomics journal.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>ClawBio: A Four-Lens Evaluation — Funder, CEO, Scientist, Technologist</title>
     <link>https://github.com/ClawBio/ClawBio</link>
