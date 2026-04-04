@@ -16,13 +16,13 @@
   <title>Personal Genomics Zone</title>
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
-  <description>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</description>
+  <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide.</description>
   <lastBuildDate>Sat, 04 Apr 2026 20:54:56 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
   <copyright>(CC-BY-3.0)</copyright>
-  <itunes:summary>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</itunes:summary>
+  <itunes:summary>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide.</itunes:summary>
   <itunes:author>Manuel Corpas</itunes:author>
   <itunes:owner>
     <itunes:email>mc@manuelcorpas.com</itunes:email>
@@ -36,7 +36,7 @@
   <itunes:category text="Health &amp; Fitness">
     <itunes:category text="Medicine"/>
   </itunes:category>
-  <googleplay:description>Why does 81% of genomic research exclude most of humanity? Dr. Manuel Corpas examines how genomic diversity--or its absence--shapes the future of precision medicine. Exploring health equity metrics (HEIM), pharmacogenomics, and the global infrastructure needed to make genomic medicine work for everyone, not just a few. Featuring insights on building inclusive genomic research across Latin America, the Middle East, and beyond.</googleplay:description>
+  <googleplay:description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide.</googleplay:description>
   <googleplay:author>Manuel Corpas</googleplay:author>
   <googleplay:owner>mc@manuelcorpas.com</googleplay:owner>
   <googleplay:email>mc@manuelcorpas.com</googleplay:email>
