@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide.</description>
-  <lastBuildDate>Sat, 04 Apr 2026 20:54:56 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Apr 2026 07:38:50 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -57,6 +57,34 @@
   <!-- Episode: ClawBio: A Four-Lens Evaluation — Funder, CEO, Scientist, Technologist -->
   
   <!-- Episode: Agentic Genomics: From Pipeline Automation to Autonomous Validation -->
+  
+  <!-- Episode: Mythos in the Lab: What Anthropic's Strongest Model Means for Biology and ClawBio -->
+  <item>
+    <title>Mythos in the Lab: What Anthropic's Strongest Model Means for Biology and ClawBio</title>
+    <link>https://manuelcorpas.com</link>
+    <pubDate>Mon, 13 Apr 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-04-13-mythos-in-the-lab-anthropic-biology-clawbio.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Research]]></category>
+    <category><![CDATA[ClawBio]]></category>
+    <category><![CDATA[Biosecurity]]></category>
+    <description><![CDATA[Anthropic built their most capable frontier model yet, Claude Mythos Preview, and chose not to release it. This episode reads the System Card (245 pages) and Alignment Risk Update (59 pages), focusing on the bio capability evaluations, the expert red team findings on bioweapons uplift, the Dyno Therapeutics sequence design result, and what all of this means for ClawBio and open source bio agents. Direct reading of the primary source, single host, 53 minutes.]]></description>
+    <content:encoded><![CDATA[<p>Anthropic built their most capable frontier model yet, Claude Mythos Preview, and chose not to release it. This episode reads the System Card (245 pages) and Alignment Risk Update (59 pages), focusing on the bio capability evaluations, the expert red team findings on bioweapons uplift, the Dyno Therapeutics sequence design result, and what all of this means for ClawBio and open source bio agents. Direct reading of the primary source, single host, 53 minutes.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-04-13-mythos-in-the-lab-anthropic-biology-clawbio.mp3" length="63360044" type="audio/mpeg"/>
+    <itunes:duration>3167</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Anthropic built their most capable frontier model yet, Claude Mythos Preview, and chose not to release it. This episode reads the System Card (245 pages) and Alignment Risk Update (59 pages), focusing on the bio capability evaluations, the expert red team findings on bioweapons uplift, the Dyno Therapeutics sequence design result, and what all of this means for ClawBio and open source bio agents. Direct reading of the primary source, single host, 53 minutes.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Anthropic built their most capable frontier model yet, Claude Mythos Preview, and chose not to release it. This episode reads the System Card (245 pages) and Alignment Risk Update (59 pages), focusing on the bio capability evaluations, the expert red team findings on bioweapons uplift, the Dyno Therapeutics sequence design result, and what all of this means for ClawBio and open source bio agents. Direct reading of the primary source, single host, 53 minutes.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>Agentic Genomics: From Pipeline Automation to Autonomous Validation</title>
     <link>https://manuelcorpas.github.io/podcast</link>
