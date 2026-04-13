@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide.</description>
-  <lastBuildDate>Mon, 13 Apr 2026 07:38:50 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Apr 2026 19:33:43 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -59,6 +59,34 @@
   <!-- Episode: Agentic Genomics: From Pipeline Automation to Autonomous Validation -->
   
   <!-- Episode: Mythos in the Lab: What Anthropic's Strongest Model Means for Biology and ClawBio -->
+  
+  <!-- Episode: Agentic Genomics with Ivo Djidrovski: Mythos, ClawBio, and the Bio Gap in AI -->
+  <item>
+    <title>Agentic Genomics with Ivo Djidrovski: Mythos, ClawBio, and the Bio Gap in AI</title>
+    <link>https://manuelcorpas.com</link>
+    <pubDate>Mon, 13 Apr 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-04-13-ivo-djidrovski-agentic-genomics.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Research]]></category>
+    <category><![CDATA[ClawBio]]></category>
+    <category><![CDATA[AgenticAI]]></category>
+    <description><![CDATA[An impromptu conversation with Ivo Djidrovski about the biology gap in agentic AI. Covers Anthropic's Claude Mythos System Card, why biology is missing from frontier AI benchmarks at events like AI Engineer Europe, ClawBio's positioning at the forefront of bio agents, and a live demo of agentic genomics on real family whole genome data for an upcoming King's College London talk. Also, AI induced FOMO, restlessness, and Ivo's Netherlands calm. Contains strong language.]]></description>
+    <content:encoded><![CDATA[<p>An impromptu conversation with Ivo Djidrovski about the biology gap in agentic AI. Covers Anthropic's Claude Mythos System Card, why biology is missing from frontier AI benchmarks at events like AI Engineer Europe, ClawBio's positioning at the forefront of bio agents, and a live demo of agentic genomics on real family whole genome data for an upcoming King's College London talk. Also, AI induced FOMO, restlessness, and Ivo's Netherlands calm. Contains strong language.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-04-13-ivo-djidrovski-agentic-genomics.mp3" length="25781389" type="audio/mpeg"/>
+    <itunes:duration>2148</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:summary>An impromptu conversation with Ivo Djidrovski about the biology gap in agentic AI. Covers Anthropic's Claude Mythos System Card, why biology is missing from frontier AI benchmarks at events like AI Engineer Europe, ClawBio's positioning at the forefront of bio agents, and a live demo of agentic genomics on real family whole genome data for an upcoming King's College London talk. Also, AI induced FOMO, restlessness, and Ivo's Netherlands calm. Contains strong language.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>true</googleplay:explicit>
+    <googleplay:description>An impromptu conversation with Ivo Djidrovski about the biology gap in agentic AI. Covers Anthropic's Claude Mythos System Card, why biology is missing from frontier AI benchmarks at events like AI Engineer Europe, ClawBio's positioning at the forefront of bio agents, and a live demo of agentic genomics on real family whole genome data for an upcoming King's College London talk. Also, AI induced FOMO, restlessness, and Ivo's Netherlands calm. Contains strong language.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>Mythos in the Lab: What Anthropic's Strongest Model Means for Biology and ClawBio</title>
     <link>https://manuelcorpas.com</link>
