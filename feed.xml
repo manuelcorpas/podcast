@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide.</description>
-  <lastBuildDate>Mon, 13 Apr 2026 19:33:43 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Apr 2026 16:17:27 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -61,6 +61,101 @@
   <!-- Episode: Mythos in the Lab: What Anthropic's Strongest Model Means for Biology and ClawBio -->
   
   <!-- Episode: Agentic Genomics with Ivo Djidrovski: Mythos, ClawBio, and the Bio Gap in AI -->
+  
+  <!-- Episode: Agentic Genomics: From Pipeline Automation to Autonomous Validation (SCGG Away Day, KCL) -->
+  <item>
+    <title>Agentic Genomics: From Pipeline Automation to Autonomous Validation (SCGG Away Day, KCL)</title>
+    <link>https://docs.clawbio.ai/presentations/kcl-scgg-agentic-genomics-2026/</link>
+    <pubDate>Tue, 14 Apr 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-04-14-agentic-genomics-from-pipeline-automation-to-autonomous-vali.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[Lecture]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Agentic Genomics]]></category>
+    <description><![CDATA[Talk by Dr Manuel Corpas at the SCGG Away Day, King's College London, 15 April 2026.
+
+Demonstrates agentic AI for genomic analysis using a family whole-genome sequencing case study, with a tiered validation framework (research-grade, cohort-grade, clinical-grade). Shows 100% rank concordance (20/20) against a 2022 peer-reviewed benchmark.
+
+Topics covered:
+- What agentic genomics means (runtime decisions vs fixed pipelines)
+- KING-robust kinship verification on family WGS
+- Polygenic risk scoring across 18 CAD PRS methods
+- Agent failure modes and REF-aware scoring fix
+- Tiered validation framework for agent-generated results
+
+ClawBio: https://github.com/ClawBio/ClawBio
+Docs: https://docs.clawbio.ai
+
+Dr Manuel Corpas | Genomics, AI and Bioinformatics
+University of Westminster
+
+#genomics #bioinformatics #AI #agenticAI #PRS #polygenicrisk #ClawBio #personalgenomics #validation #KCL]]></description>
+    <content:encoded><![CDATA[<p>Talk by Dr Manuel Corpas at the SCGG Away Day, King's College London, 15 April 2026.
+
+Demonstrates agentic AI for genomic analysis using a family whole-genome sequencing case study, with a tiered validation framework (research-grade, cohort-grade, clinical-grade). Shows 100% rank concordance (20/20) against a 2022 peer-reviewed benchmark.
+
+Topics covered:
+- What agentic genomics means (runtime decisions vs fixed pipelines)
+- KING-robust kinship verification on family WGS
+- Polygenic risk scoring across 18 CAD PRS methods
+- Agent failure modes and REF-aware scoring fix
+- Tiered validation framework for agent-generated results
+
+ClawBio: https://github.com/ClawBio/ClawBio
+Docs: https://docs.clawbio.ai
+
+Dr Manuel Corpas | Genomics, AI and Bioinformatics
+University of Westminster
+
+#genomics #bioinformatics #AI #agenticAI #PRS #polygenicrisk #ClawBio #personalgenomics #validation #KCL</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-04-14-agentic-genomics-from-pipeline-automation-to-autonomous-vali.mp3" length="18603401" type="audio/mpeg"/>
+    <itunes:duration>1162</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Talk by Dr Manuel Corpas at the SCGG Away Day, King's College London, 15 April 2026.
+
+Demonstrates agentic AI for genomic analysis using a family whole-genome sequencing case study, with a tiered validation framework (research-grade, cohort-grade, clinical-grade). Shows 100% rank concordance (20/20) against a 2022 peer-reviewed benchmark.
+
+Topics covered:
+- What agentic genomics means (runtime decisions vs fixed pipelines)
+- KING-robust kinship verification on family WGS
+- Polygenic risk scoring across 18 CAD PRS methods
+- Agent failure modes and REF-aware scoring fix
+- Tiered validation framework for agent-generated results
+
+ClawBio: https://github.com/ClawBio/ClawBio
+Docs: https://docs.clawbio.ai
+
+Dr Manuel Corpas | Genomics, AI and Bioinformatics
+University of Westminster
+
+#genomics #bioinformatics #AI #agenticAI #PRS #polygenicrisk #ClawBio #personalgenomics #validation #KCL</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Talk by Dr Manuel Corpas at the SCGG Away Day, King's College London, 15 April 2026.
+
+Demonstrates agentic AI for genomic analysis using a family whole-genome sequencing case study, with a tiered validation framework (research-grade, cohort-grade, clinical-grade). Shows 100% rank concordance (20/20) against a 2022 peer-reviewed benchmark.
+
+Topics covered:
+- What agentic genomics means (runtime decisions vs fixed pipelines)
+- KING-robust kinship verification on family WGS
+- Polygenic risk scoring across 18 CAD PRS methods
+- Agent failure modes and REF-aware scoring fix
+- Tiered validation framework for agent-generated results
+
+ClawBio: https://github.com/ClawBio/ClawBio
+Docs: https://docs.clawbio.ai
+
+Dr Manuel Corpas | Genomics, AI and Bioinformatics
+University of Westminster
+
+#genomics #bioinformatics #AI #agenticAI #PRS #polygenicrisk #ClawBio #personalgenomics #validation #KCL</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>Agentic Genomics with Ivo Djidrovski: Mythos, ClawBio, and the Bio Gap in AI</title>
     <link>https://manuelcorpas.com</link>
