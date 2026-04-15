@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide.</description>
-  <lastBuildDate>Tue, 14 Apr 2026 16:17:27 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Apr 2026 04:01:22 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -110,8 +110,8 @@ Dr Manuel Corpas | Genomics, AI and Bioinformatics
 University of Westminster
 
 #genomics #bioinformatics #AI #agenticAI #PRS #polygenicrisk #ClawBio #personalgenomics #validation #KCL</p>]]></content:encoded>
-    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-04-14-agentic-genomics-from-pipeline-automation-to-autonomous-vali.mp3" length="18603401" type="audio/mpeg"/>
-    <itunes:duration>1162</itunes:duration>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-04-14-agentic-genomics-from-pipeline-automation-to-autonomous-vali.mp3" length="13987724" type="audio/mpeg"/>
+    <itunes:duration>699</itunes:duration>
     <itunes:author>Manuel Corpas</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:summary>Talk by Dr Manuel Corpas at the SCGG Away Day, King's College London, 15 April 2026.
