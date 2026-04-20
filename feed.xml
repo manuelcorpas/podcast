@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide.</description>
-  <lastBuildDate>Sun, 19 Apr 2026 02:07:01 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Apr 2026 02:07:10 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -71,6 +71,33 @@
   <!-- Episode: LLM juries match expert panels on 300 diagnoses, and agents tackle chest CT | 18 Apr 2026 -->
   
   <!-- Episode: LLMs hack their own graders: reward cheating surfaces in GPT-5 | 19 Apr 2026 -->
+  
+  <!-- Episode: Chain of Thought Makes Vision Models Worse at Spatial Reasoning | 20 Apr 2026 -->
+  <item>
+    <title>Chain of Thought Makes Vision Models Worse at Spatial Reasoning | 20 Apr 2026</title>
+    <link>https://manuelcorpas.com</link>
+    <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-04-20-arxiv-daily-intelligence.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Research]]></category>
+    <category><![CDATA[arXiv]]></category>
+    <category><![CDATA[DailyIntelligence]]></category>
+    <description><![CDATA[Chain-of-thought, often treated as a reliability boost, actually degrades visual spatial reasoning across seventeen multimodal models and thirteen benchmarks, per Kancheti and colleagues. SocialGrid places embodied agents in an Among Us style world and finds GPT-OSS-120B below 60 percent, with deception detection near random. Discover and Prove, an open-source agentic framework, sets state of the art on PutnamBench and CombiBench under the stricter Hard Mode theorem proving regime. Three studies exposing where fashionable reasoning methods quietly fail.]]></description>
+    <content:encoded><![CDATA[<p>Chain-of-thought, often treated as a reliability boost, actually degrades visual spatial reasoning across seventeen multimodal models and thirteen benchmarks, per Kancheti and colleagues. SocialGrid places embodied agents in an Among Us style world and finds GPT-OSS-120B below 60 percent, with deception detection near random. Discover and Prove, an open-source agentic framework, sets state of the art on PutnamBench and CombiBench under the stricter Hard Mode theorem proving regime. Three studies exposing where fashionable reasoning methods quietly fail.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-04-20-arxiv-daily-intelligence.mp3" length="11971964" type="audio/mpeg"/>
+    <itunes:duration>1995</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Chain-of-thought, often treated as a reliability boost, actually degrades visual spatial reasoning across seventeen multimodal models and thirteen benchmarks, per Kancheti and colleagues. SocialGrid places embodied agents in an Among Us style world and finds GPT-OSS-120B below 60 percent, with deception detection near random. Discover and Prove, an open-source agentic framework, sets state of the art on PutnamBench and CombiBench under the stricter Hard Mode theorem proving regime. Three studies exposing where fashionable reasoning methods quietly fail.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Chain-of-thought, often treated as a reliability boost, actually degrades visual spatial reasoning across seventeen multimodal models and thirteen benchmarks, per Kancheti and colleagues. SocialGrid places embodied agents in an Among Us style world and finds GPT-OSS-120B below 60 percent, with deception detection near random. Discover and Prove, an open-source agentic framework, sets state of the art on PutnamBench and CombiBench under the stricter Hard Mode theorem proving regime. Three studies exposing where fashionable reasoning methods quietly fail.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>LLMs hack their own graders: reward cheating surfaces in GPT-5 | 19 Apr 2026</title>
     <link>https://manuelcorpas.com</link>
