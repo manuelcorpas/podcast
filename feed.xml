@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide.</description>
-  <lastBuildDate>Mon, 20 Apr 2026 02:07:10 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Apr 2026 02:10:11 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -73,6 +73,33 @@
   <!-- Episode: LLMs hack their own graders: reward cheating surfaces in GPT-5 | 19 Apr 2026 -->
   
   <!-- Episode: Chain of Thought Makes Vision Models Worse at Spatial Reasoning | 20 Apr 2026 -->
+  
+  <!-- Episode: Open source agent beats Claude 4.5 Sonnet on GAIA | 21 Apr 2026 -->
+  <item>
+    <title>Open source agent beats Claude 4.5 Sonnet on GAIA | 21 Apr 2026</title>
+    <link>https://manuelcorpas.com</link>
+    <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-04-21-arxiv-daily-intelligence.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Research]]></category>
+    <category><![CDATA[arXiv]]></category>
+    <category><![CDATA[DailyIntelligence]]></category>
+    <description><![CDATA[How much can we actually trust the current wave of agentic systems? This week pulls together three answers. LiteResearcher introduces a scalable agentic reinforcement learning framework that reportedly outperforms Claude 4.5 Sonnet on the GAIA and Xbench deep-research benchmarks, suggesting real-world search competence can be trained rather than hand-crafted. A second study documents diversity collapse in multi-agent LLM ideation, showing that structural coupling between agents narrows the solution space instead of widening it. The third paper probes reliability on OSWorld, finding that computer-use agents often fail on repeated runs of identical tasks, a sobering note on reproducibility.]]></description>
+    <content:encoded><![CDATA[<p>How much can we actually trust the current wave of agentic systems? This week pulls together three answers. LiteResearcher introduces a scalable agentic reinforcement learning framework that reportedly outperforms Claude 4.5 Sonnet on the GAIA and Xbench deep-research benchmarks, suggesting real-world search competence can be trained rather than hand-crafted. A second study documents diversity collapse in multi-agent LLM ideation, showing that structural coupling between agents narrows the solution space instead of widening it. The third paper probes reliability on OSWorld, finding that computer-use agents often fail on repeated runs of identical tasks, a sobering note on reproducibility.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-04-21-arxiv-daily-intelligence.mp3" length="10949852" type="audio/mpeg"/>
+    <itunes:duration>1824</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>How much can we actually trust the current wave of agentic systems? This week pulls together three answers. LiteResearcher introduces a scalable agentic reinforcement learning framework that reportedly outperforms Claude 4.5 Sonnet on the GAIA and Xbench deep-research benchmarks, suggesting real-world search competence can be trained rather than hand-crafted. A second study documents diversity collapse in multi-agent LLM ideation, showing that structural coupling between agents narrows the solution space instead of widening it. The third paper probes reliability on OSWorld, finding that computer-use agents often fail on repeated runs of identical tasks, a sobering note on reproducibility.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>How much can we actually trust the current wave of agentic systems? This week pulls together three answers. LiteResearcher introduces a scalable agentic reinforcement learning framework that reportedly outperforms Claude 4.5 Sonnet on the GAIA and Xbench deep-research benchmarks, suggesting real-world search competence can be trained rather than hand-crafted. A second study documents diversity collapse in multi-agent LLM ideation, showing that structural coupling between agents narrows the solution space instead of widening it. The third paper probes reliability on OSWorld, finding that computer-use agents often fail on repeated runs of identical tasks, a sobering note on reproducibility.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>Chain of Thought Makes Vision Models Worse at Spatial Reasoning | 20 Apr 2026</title>
     <link>https://manuelcorpas.com</link>
