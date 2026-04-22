@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide.</description>
-  <lastBuildDate>Tue, 21 Apr 2026 02:10:11 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Apr 2026 02:07:13 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -75,6 +75,33 @@
   <!-- Episode: Chain of Thought Makes Vision Models Worse at Spatial Reasoning | 20 Apr 2026 -->
   
   <!-- Episode: Open source agent beats Claude 4.5 Sonnet on GAIA | 21 Apr 2026 -->
+  
+  <!-- Episode: Frontier LLMs Get a Threat Hunting Scorecard and Two New Safety Cages | 22 Apr 2026 -->
+  <item>
+    <title>Frontier LLMs Get a Threat Hunting Scorecard and Two New Safety Cages | 22 Apr 2026</title>
+    <link>https://manuelcorpas.com</link>
+    <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-04-22-arxiv-daily-intelligence.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Research]]></category>
+    <category><![CDATA[arXiv]]></category>
+    <category><![CDATA[DailyIntelligence]]></category>
+    <description><![CDATA[How well do frontier LLM agents actually perform when the stakes are real? This episode works through three fresh evaluations of agentic systems under pressure. The Cyber Defense Benchmark asks models to pinpoint exact timestamps of malicious events in raw Windows logs with no hints, exposing the gap between chat fluency and SOC analyst competence. A second paper introduces an execution environment that isolates private user data from prompt injection and other adversarial attacks on personal assistants. The third, SafetyALFRED, extends the ALFRED embodied benchmark with six categories of real-world hazards to test whether multimodal models plan safely before acting.]]></description>
+    <content:encoded><![CDATA[<p>How well do frontier LLM agents actually perform when the stakes are real? This episode works through three fresh evaluations of agentic systems under pressure. The Cyber Defense Benchmark asks models to pinpoint exact timestamps of malicious events in raw Windows logs with no hints, exposing the gap between chat fluency and SOC analyst competence. A second paper introduces an execution environment that isolates private user data from prompt injection and other adversarial attacks on personal assistants. The third, SafetyALFRED, extends the ALFRED embodied benchmark with six categories of real-world hazards to test whether multimodal models plan safely before acting.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-04-22-arxiv-daily-intelligence.mp3" length="11718236" type="audio/mpeg"/>
+    <itunes:duration>1953</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>How well do frontier LLM agents actually perform when the stakes are real? This episode works through three fresh evaluations of agentic systems under pressure. The Cyber Defense Benchmark asks models to pinpoint exact timestamps of malicious events in raw Windows logs with no hints, exposing the gap between chat fluency and SOC analyst competence. A second paper introduces an execution environment that isolates private user data from prompt injection and other adversarial attacks on personal assistants. The third, SafetyALFRED, extends the ALFRED embodied benchmark with six categories of real-world hazards to test whether multimodal models plan safely before acting.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>How well do frontier LLM agents actually perform when the stakes are real? This episode works through three fresh evaluations of agentic systems under pressure. The Cyber Defense Benchmark asks models to pinpoint exact timestamps of malicious events in raw Windows logs with no hints, exposing the gap between chat fluency and SOC analyst competence. A second paper introduces an execution environment that isolates private user data from prompt injection and other adversarial attacks on personal assistants. The third, SafetyALFRED, extends the ALFRED embodied benchmark with six categories of real-world hazards to test whether multimodal models plan safely before acting.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>Open source agent beats Claude 4.5 Sonnet on GAIA | 21 Apr 2026</title>
     <link>https://manuelcorpas.com</link>
