@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide.</description>
-  <lastBuildDate>Thu, 23 Apr 2026 02:07:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Apr 2026 16:03:23 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -79,6 +79,33 @@
   <!-- Episode: Frontier LLMs Get a Threat Hunting Scorecard and Two New Safety Cages | 22 Apr 2026 -->
   
   <!-- Episode: LLMs Beat Humans at Spotting Fraud While Learning to Lie in Avalon | 23 Apr 2026 -->
+  
+  <!-- Episode: AI Agents for Health: ClawBio Hackathon -->
+  <item>
+    <title>AI Agents for Health: ClawBio Hackathon</title>
+    <link>https://manuelcorpas.com</link>
+    <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-04-23-ai-agents-for-health-clawbio-hackathon.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[ClawBio]]></category>
+    <category><![CDATA[Hackathon]]></category>
+    <description><![CDATA[102 participants at the University of Westminster hack on ClawBio, the open-source bioinformatics agent framework with 40+ executable skills. Challenge tracks include new skill development, agent workflows, equity and access using the HEIM framework, and the TuringDB Graph Challenge for drug repurposing, graph-based memory, and multimodal knowledge graphs.]]></description>
+    <content:encoded><![CDATA[<p>102 participants at the University of Westminster hack on ClawBio, the open-source bioinformatics agent framework with 40+ executable skills. Challenge tracks include new skill development, agent workflows, equity and access using the HEIM framework, and the TuringDB Graph Challenge for drug repurposing, graph-based memory, and multimodal knowledge graphs.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-04-23-ai-agents-for-health-clawbio-hackathon.mp3" length="44314505" type="audio/mpeg"/>
+    <itunes:duration>2769</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>102 participants at the University of Westminster hack on ClawBio, the open-source bioinformatics agent framework with 40+ executable skills. Challenge tracks include new skill development, agent workflows, equity and access using the HEIM framework, and the TuringDB Graph Challenge for drug repurposing, graph-based memory, and multimodal knowledge graphs.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>102 participants at the University of Westminster hack on ClawBio, the open-source bioinformatics agent framework with 40+ executable skills. Challenge tracks include new skill development, agent workflows, equity and access using the HEIM framework, and the TuringDB Graph Challenge for drug repurposing, graph-based memory, and multimodal knowledge graphs.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>LLMs Beat Humans at Spotting Fraud While Learning to Lie in Avalon | 23 Apr 2026</title>
     <link>https://manuelcorpas.com</link>
