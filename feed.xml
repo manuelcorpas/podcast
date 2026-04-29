@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide.</description>
-  <lastBuildDate>Thu, 23 Apr 2026 16:03:23 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Apr 2026 05:23:56 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -81,6 +81,33 @@
   <!-- Episode: LLMs Beat Humans at Spotting Fraud While Learning to Lie in Avalon | 23 Apr 2026 -->
   
   <!-- Episode: AI Agents for Health: ClawBio Hackathon -->
+  
+  <!-- Episode: The Future of Biology Is Agentic — UK DRI Imperial Seminar -->
+  <item>
+    <title>The Future of Biology Is Agentic — UK DRI Imperial Seminar</title>
+    <link>https://docs.clawbio.ai/presentations/imperial-future-of-biology-2026/</link>
+    <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-04-29-imperial-future-of-biology.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Research]]></category>
+    <category><![CDATA[ClawBio]]></category>
+    <description><![CDATA[Manuel narrates his UK DRI seminar at Imperial College London (29 April 2026): how agentic genomics shifts the bottleneck from pipeline construction to validation. An empirical benchmark of 8 frontier LLMs across 1,728 evaluations on the ClawBio pharmgx-reporter skill: 92.4% mean phenotype accuracy without specification, 100% with specification, and a 6 of 7 lethal-error gap that closes only when population-aware skill data is engineered in.]]></description>
+    <content:encoded><![CDATA[<p>Manuel narrates his UK DRI seminar at Imperial College London (29 April 2026): how agentic genomics shifts the bottleneck from pipeline construction to validation. An empirical benchmark of 8 frontier LLMs across 1,728 evaluations on the ClawBio pharmgx-reporter skill: 92.4% mean phenotype accuracy without specification, 100% with specification, and a 6 of 7 lethal-error gap that closes only when population-aware skill data is engineered in.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-04-29-imperial-future-of-biology.mp3" length="8819372" type="audio/mpeg"/>
+    <itunes:duration>551</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Manuel narrates his UK DRI seminar at Imperial College London (29 April 2026): how agentic genomics shifts the bottleneck from pipeline construction to validation. An empirical benchmark of 8 frontier LLMs across 1,728 evaluations on the ClawBio pharmgx-reporter skill: 92.4% mean phenotype accuracy without specification, 100% with specification, and a 6 of 7 lethal-error gap that closes only when population-aware skill data is engineered in.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Manuel narrates his UK DRI seminar at Imperial College London (29 April 2026): how agentic genomics shifts the bottleneck from pipeline construction to validation. An empirical benchmark of 8 frontier LLMs across 1,728 evaluations on the ClawBio pharmgx-reporter skill: 92.4% mean phenotype accuracy without specification, 100% with specification, and a 6 of 7 lethal-error gap that closes only when population-aware skill data is engineered in.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>AI Agents for Health: ClawBio Hackathon</title>
     <link>https://manuelcorpas.com</link>
