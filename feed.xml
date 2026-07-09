@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide.</description>
-  <lastBuildDate>Thu, 25 Jun 2026 08:06:26 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 09 Jul 2026 09:31:47 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -87,6 +87,33 @@
   <!-- Episode: Qatar Genome Programme: From Six Thousand to Fourteen Thousand Genomes -->
   
   <!-- Episode: Agentic Genomics in Practice: ClawBio and Genomic Intelligence (Live Webinar) -->
+  
+  <!-- Episode: ClawBench: Building a Nature Methods Benchmark for Trustworthy Agentic Genomics -->
+  <item>
+    <title>ClawBench: Building a Nature Methods Benchmark for Trustworthy Agentic Genomics</title>
+    <link>https://manuelcorpas.com</link>
+    <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-07-09-clawbench-nature-methods-deep-dive.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Research]]></category>
+    <category><![CDATA[ClawBio]]></category>
+    <description><![CDATA[A ~22 minute deep dive on ClawBench, our second-generation benchmark for trustworthy agentic genomics. What has been done and why, how the fail-closed contract, deterministic ACMG combiner and per-variant layer attribution actually work, the honest walk-backs behind each finding, and exactly what remains to make it Nature Methods level.]]></description>
+    <content:encoded><![CDATA[<p>A ~22 minute deep dive on ClawBench, our second-generation benchmark for trustworthy agentic genomics. What has been done and why, how the fail-closed contract, deterministic ACMG combiner and per-variant layer attribution actually work, the honest walk-backs behind each finding, and exactly what remains to make it Nature Methods level.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-07-09-clawbench-nature-methods-deep-dive.mp3" length="21436844" type="audio/mpeg"/>
+    <itunes:duration>1339</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>A ~22 minute deep dive on ClawBench, our second-generation benchmark for trustworthy agentic genomics. What has been done and why, how the fail-closed contract, deterministic ACMG combiner and per-variant layer attribution actually work, the honest walk-backs behind each finding, and exactly what remains to make it Nature Methods level.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>A ~22 minute deep dive on ClawBench, our second-generation benchmark for trustworthy agentic genomics. What has been done and why, how the fail-closed contract, deterministic ACMG combiner and per-variant layer attribution actually work, the honest walk-backs behind each finding, and exactly what remains to make it Nature Methods level.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>Agentic Genomics in Practice: ClawBio and Genomic Intelligence (Live Webinar)</title>
     <link>https://www.youtube.com/watch?v=pLI1GOY-I1c</link>
