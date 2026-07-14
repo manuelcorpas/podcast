@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide.</description>
-  <lastBuildDate>Thu, 09 Jul 2026 09:31:47 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 08:12:13 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -89,6 +89,33 @@
   <!-- Episode: Agentic Genomics in Practice: ClawBio and Genomic Intelligence (Live Webinar) -->
   
   <!-- Episode: ClawBench: Building a Nature Methods Benchmark for Trustworthy Agentic Genomics -->
+  
+  <!-- Episode: The Future of Transcriptomics in an Agentic World: Crick RNA Ideathon -->
+  <item>
+    <title>The Future of Transcriptomics in an Agentic World: Crick RNA Ideathon</title>
+    <link>https://docs.clawbio.ai/presentations/crick-rna-ideathon-2026/</link>
+    <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-07-14-future-of-transcriptomics-agentic-world.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Research]]></category>
+    <category><![CDATA[ClawBio]]></category>
+    <description><![CDATA[Manuel Corpas's opening talk for the Londonomics RNA Ideathon at the Francis Crick Institute, recorded 14 July 2026. The argument: the future of transcriptomics is not a smarter model, it is a trusted operating layer. Skills that carry a versioned context contract, fail safely, and keep a chain of custody, so an analysis is reproducible whichever model runs it. The talk reproduces the published Klim and Melamed TDP-43 knockdown result (STMN2 collapse) through the ClawBio rnaseq-de skill, then shows a nine-model, five-provider grid where skill execution collapses model-to-model variation. Slides: https://docs.clawbio.ai/presentations/crick-rna-ideathon-2026/]]></description>
+    <content:encoded><![CDATA[<p>Manuel Corpas's opening talk for the Londonomics RNA Ideathon at the Francis Crick Institute, recorded 14 July 2026. The argument: the future of transcriptomics is not a smarter model, it is a trusted operating layer. Skills that carry a versioned context contract, fail safely, and keep a chain of custody, so an analysis is reproducible whichever model runs it. The talk reproduces the published Klim and Melamed TDP-43 knockdown result (STMN2 collapse) through the ClawBio rnaseq-de skill, then shows a nine-model, five-provider grid where skill execution collapses model-to-model variation. Slides: https://docs.clawbio.ai/presentations/crick-rna-ideathon-2026/</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-07-14-future-of-transcriptomics-agentic-world.mp3" length="16201481" type="audio/mpeg"/>
+    <itunes:duration>1012</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Manuel Corpas's opening talk for the Londonomics RNA Ideathon at the Francis Crick Institute, recorded 14 July 2026. The argument: the future of transcriptomics is not a smarter model, it is a trusted operating layer. Skills that carry a versioned context contract, fail safely, and keep a chain of custody, so an analysis is reproducible whichever model runs it. The talk reproduces the published Klim and Melamed TDP-43 knockdown result (STMN2 collapse) through the ClawBio rnaseq-de skill, then shows a nine-model, five-provider grid where skill execution collapses model-to-model variation. Slides: https://docs.clawbio.ai/presentations/crick-rna-ideathon-2026/</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Manuel Corpas's opening talk for the Londonomics RNA Ideathon at the Francis Crick Institute, recorded 14 July 2026. The argument: the future of transcriptomics is not a smarter model, it is a trusted operating layer. Skills that carry a versioned context contract, fail safely, and keep a chain of custody, so an analysis is reproducible whichever model runs it. The talk reproduces the published Klim and Melamed TDP-43 knockdown result (STMN2 collapse) through the ClawBio rnaseq-de skill, then shows a nine-model, five-provider grid where skill execution collapses model-to-model variation. Slides: https://docs.clawbio.ai/presentations/crick-rna-ideathon-2026/</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>ClawBench: Building a Nature Methods Benchmark for Trustworthy Agentic Genomics</title>
     <link>https://manuelcorpas.com</link>
