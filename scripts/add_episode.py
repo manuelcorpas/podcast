@@ -8,7 +8,7 @@ Usage:
         --description "Episode description..." \
         --categories "AI,Technology,Podcast" \
         --link "https://manuelcorpas.com/2026/02/04/post-slug/" \
-        --date "2026-02-04" \
+        [--date "2026-02-04"] \
         [--guid "http://manuelcorpas.com/?p=NNNN"] \
         [--image "https://...image-url..."]
 """
@@ -44,6 +44,28 @@ NAMESPACES = {
 
 for prefix, uri in NAMESPACES.items():
     ET.register_namespace(prefix, uri)
+
+
+def escape_xml(text: str) -> str:
+    """Escape text destined for an element that is not CDATA-wrapped."""
+    return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def resolve_pub_datetime(date: str | None, now: datetime | None = None) -> datetime:
+    """Work out the pubDate for an episode.
+
+    Publishing today (or passing no date at all) stamps the actual moment, so the
+    episode is never post-dated. Directories such as Apple and Spotify hold back
+    items dated in the future, which used to delay same-day episodes by hours.
+    Backfilled or deliberately scheduled dates keep the stable noon convention.
+    """
+    now = now or datetime.now(timezone.utc)
+    if date is None:
+        return now
+    dt = datetime.strptime(date, "%Y-%m-%d").replace(hour=12, tzinfo=timezone.utc)
+    if dt.date() == now.date():
+        return now
+    return dt
 
 
 def get_duration_seconds(filepath: str) -> int:
@@ -90,10 +112,15 @@ def make_item_xml(
 ) -> str:
     """Generate XML string for a new <item>."""
     cats = "\n    ".join(f"<category><![CDATA[{c.strip()}]]></category>" for c in categories)
+    # Fields below that are not CDATA-wrapped must be escaped, or a bare "&" in a
+    # title or description makes the whole feed unparseable and directories reject it.
+    title_x = escape_xml(title)
+    link_x = escape_xml(link)
+    description_x = escape_xml(description)
     return f"""
   <item>
-    <title>{title}</title>
-    <link>{link}</link>
+    <title>{title_x}</title>
+    <link>{link_x}</link>
     <pubDate>{pub_date}</pubDate>
     <guid isPermaLink="false">{guid}</guid>
     <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
@@ -104,11 +131,11 @@ def make_item_xml(
     <itunes:duration>{duration}</itunes:duration>
     <itunes:author>Manuel Corpas</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:summary>{description}</itunes:summary>
+    <itunes:summary>{description_x}</itunes:summary>
     <itunes:image href="{image_url}"/>
     <googleplay:author>Manuel Corpas</googleplay:author>
     <googleplay:explicit>false</googleplay:explicit>
-    <googleplay:description>{description}</googleplay:description>
+    <googleplay:description>{description_x}</googleplay:description>
     <googleplay:image href="{image_url}"/>
   </item>"""
 
@@ -149,7 +176,11 @@ def main():
     parser.add_argument("--description", required=True, help="Episode description")
     parser.add_argument("--categories", required=True, help="Comma-separated categories")
     parser.add_argument("--link", required=True, help="Blog post URL")
-    parser.add_argument("--date", required=True, help="Publication date (YYYY-MM-DD)")
+    parser.add_argument(
+        "--date",
+        default=None,
+        help="Publication date (YYYY-MM-DD). Defaults to now; today's date also stamps now.",
+    )
     parser.add_argument("--guid", default=None, help="GUID (defaults to audio URL)")
     parser.add_argument("--image", default=DEFAULT_IMAGE, help="Episode artwork URL")
     args = parser.parse_args()
@@ -173,9 +204,7 @@ def main():
     guid = args.guid or audio_url
 
     # Parse date
-    dt = datetime.strptime(args.date, "%Y-%m-%d").replace(
-        hour=12, tzinfo=timezone.utc
-    )
+    dt = resolve_pub_datetime(args.date)
     pub_date = format_datetime(dt)
 
     categories = [c.strip() for c in args.categories.split(",")]
@@ -228,7 +257,7 @@ def main():
     episode_html = make_index_html_block(
         title=args.title,
         link=args.link,
-        date=args.date,
+        date=dt.strftime("%Y-%m-%d"),
         duration=duration,
         description=args.description,
         audio_file=args.file,
