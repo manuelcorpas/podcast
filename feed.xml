@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide.</description>
-  <lastBuildDate>Tue, 14 Jul 2026 08:12:13 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 05:36:53 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -91,6 +91,33 @@
   <!-- Episode: ClawBench: Building a Nature Methods Benchmark for Trustworthy Agentic Genomics -->
   
   <!-- Episode: The Future of Transcriptomics in an Agentic World: Crick RNA Ideathon -->
+  
+  <!-- Episode: Agentic Genomics: "My Agent Is Not a Servant, My Agent Is a Colleague" (Tomorrow's Medicine Ep. 16) -->
+  <item>
+    <title>Agentic Genomics: "My Agent Is Not a Servant, My Agent Is a Colleague" (Tomorrow's Medicine Ep. 16)</title>
+    <link>https://www.youtube.com/watch?v=XEpMYyJDrj8</link>
+    <pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-07-22-agentic-genomics-tomorrows-medicine.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Research]]></category>
+    <category><![CDATA[ClawBio]]></category>
+    <description><![CDATA[I joined Arseniy Arsentyev on episode 16 of the Tomorrow's Medicine podcast to talk about agentic genomics: what it is, why I coined the term, and why the hard part is not intelligence but trust. We cover the road from a bioinformatics MSc in Manchester in 2000, to building DECIPHER at the Sanger Institute, to sequencing my own exome in 2010 and publishing my family's genomes. Then the last twelve months: Claude Code as the inflection point, ClawBio winning the Imperial College agentic AI hackathon, 43 contributors and around 5,000 clones a week, and why AI amplifies health inequity rather than solving it. Original show: https://www.youtube.com/@tommedpod]]></description>
+    <content:encoded><![CDATA[<p>I joined Arseniy Arsentyev on episode 16 of the Tomorrow's Medicine podcast to talk about agentic genomics: what it is, why I coined the term, and why the hard part is not intelligence but trust. We cover the road from a bioinformatics MSc in Manchester in 2000, to building DECIPHER at the Sanger Institute, to sequencing my own exome in 2010 and publishing my family's genomes. Then the last twelve months: Claude Code as the inflection point, ClawBio winning the Imperial College agentic AI hackathon, 43 contributors and around 5,000 clones a week, and why AI amplifies health inequity rather than solving it. Original show: https://www.youtube.com/@tommedpod</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-07-22-agentic-genomics-tomorrows-medicine.mp3" length="59456501" type="audio/mpeg"/>
+    <itunes:duration>3715</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>I joined Arseniy Arsentyev on episode 16 of the Tomorrow's Medicine podcast to talk about agentic genomics: what it is, why I coined the term, and why the hard part is not intelligence but trust. We cover the road from a bioinformatics MSc in Manchester in 2000, to building DECIPHER at the Sanger Institute, to sequencing my own exome in 2010 and publishing my family's genomes. Then the last twelve months: Claude Code as the inflection point, ClawBio winning the Imperial College agentic AI hackathon, 43 contributors and around 5,000 clones a week, and why AI amplifies health inequity rather than solving it. Original show: https://www.youtube.com/@tommedpod</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>I joined Arseniy Arsentyev on episode 16 of the Tomorrow's Medicine podcast to talk about agentic genomics: what it is, why I coined the term, and why the hard part is not intelligence but trust. We cover the road from a bioinformatics MSc in Manchester in 2000, to building DECIPHER at the Sanger Institute, to sequencing my own exome in 2010 and publishing my family's genomes. Then the last twelve months: Claude Code as the inflection point, ClawBio winning the Imperial College agentic AI hackathon, 43 contributors and around 5,000 clones a week, and why AI amplifies health inequity rather than solving it. Original show: https://www.youtube.com/@tommedpod</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>The Future of Transcriptomics in an Agentic World: Crick RNA Ideathon</title>
     <link>https://docs.clawbio.ai/presentations/crick-rna-ideathon-2026/</link>
