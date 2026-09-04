@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide. Listen on Spotify: https://open.spotify.com/show/7ybzmeQKx5xfwsGjDsiQZe or on Apple Podcasts: https://podcasts.apple.com/us/podcast/personal-genomics-zone/id1252419814</description>
-  <lastBuildDate>Wed, 22 Jul 2026 05:36:53 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 14:53:11 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -93,6 +93,32 @@
   <!-- Episode: The Future of Transcriptomics in an Agentic World: Crick RNA Ideathon -->
   
   <!-- Episode: Agentic Genomics: "My Agent Is Not a Servant, My Agent Is a Colleague" (Tomorrow's Medicine Ep. 16) -->
+  
+  <!-- Episode: Corpas Core + GBrain: five prompts for your first working AI memory system -->
+  <item>
+    <title>Corpas Core + GBrain: five prompts for your first working AI memory system</title>
+    <link>https://manuelcorpas.github.io/podcast/</link>
+    <pubDate>Fri, 04 Sep 2026 14:53:11 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-09-04-corpas-core-gbrain.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Technology]]></category>
+    <description><![CDATA[A practical starter for scientists and knowledge workers: requirements, five agentic prompts, a freshness test and a downloadable kit. Written by Manuel Corpas. Narrated with OpenAI Cedar, an AI-generated voice. Starter kit: https://manuelcorpas.github.io/podcast/resources/corpas-core-gbrain-starter.zip]]></description>
+    <content:encoded><![CDATA[<p>A practical starter for scientists and knowledge workers: requirements, five agentic prompts, a freshness test and a downloadable kit. Written by Manuel Corpas. Narrated with OpenAI Cedar, an AI-generated voice. Starter kit: https://manuelcorpas.github.io/podcast/resources/corpas-core-gbrain-starter.zip</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-09-04-corpas-core-gbrain.mp3" length="13774072" type="audio/mpeg"/>
+    <itunes:duration>573</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>A practical starter for scientists and knowledge workers: requirements, five agentic prompts, a freshness test and a downloadable kit. Written by Manuel Corpas. Narrated with OpenAI Cedar, an AI-generated voice. Starter kit: https://manuelcorpas.github.io/podcast/resources/corpas-core-gbrain-starter.zip</itunes:summary>
+    <itunes:image href="https://manuelcorpas.github.io/podcast/images/2026-09-04-corpas-core-gbrain.png"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>A practical starter for scientists and knowledge workers: requirements, five agentic prompts, a freshness test and a downloadable kit. Written by Manuel Corpas. Narrated with OpenAI Cedar, an AI-generated voice. Starter kit: https://manuelcorpas.github.io/podcast/resources/corpas-core-gbrain-starter.zip</googleplay:description>
+    <googleplay:image href="https://manuelcorpas.github.io/podcast/images/2026-09-04-corpas-core-gbrain.png"/>
+  </item>
+
   <item>
     <title>Agentic Genomics: "My Agent Is Not a Servant, My Agent Is a Colleague" (Tomorrow's Medicine Ep. 16)</title>
     <link>https://www.youtube.com/watch?v=XEpMYyJDrj8</link>
