@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide. Listen on Spotify: https://open.spotify.com/show/7ybzmeQKx5xfwsGjDsiQZe or on Apple Podcasts: https://podcasts.apple.com/us/podcast/personal-genomics-zone/id1252419814</description>
-  <lastBuildDate>Fri, 04 Sep 2026 14:53:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 12:36:58 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -95,6 +95,33 @@
   <!-- Episode: Agentic Genomics: "My Agent Is Not a Servant, My Agent Is a Colleague" (Tomorrow's Medicine Ep. 16) -->
   
   <!-- Episode: Corpas Core + GBrain: five prompts for your first working AI memory system -->
+  
+  <!-- Episode: Agentic Genomics: Your Science, Made Executable -->
+  <item>
+    <title>Agentic Genomics: Your Science, Made Executable</title>
+    <link>https://docs.clawbio.ai/presentations/salerno-agentic-genomics-2026/</link>
+    <pubDate>Mon, 07 Sep 2026 12:36:58 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-09-07-agentic-genomics-your-science-made-executable.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[Science]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Life Sciences]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Artificial Intelligence]]></category>
+    <description><![CDATA[What changes when a scientist can direct an AI agent using scientific context rather than programming syntax? In this lecture from the INFLAMomx Training School in Salerno, Manuel Corpas demonstrates real RNA-seq and single-cell workflows, an invalid control that stops safely, and the role of skills, evals and equity in clinical-grade agentic genomics. PDF slides: https://docs.clawbio.ai/presentations/salerno-agentic-genomics-2026/Salerno-Agentic-Genomics-Slides.pdf]]></description>
+    <content:encoded><![CDATA[<p>What changes when a scientist can direct an AI agent using scientific context rather than programming syntax? In this lecture from the INFLAMomx Training School in Salerno, Manuel Corpas demonstrates real RNA-seq and single-cell workflows, an invalid control that stops safely, and the role of skills, evals and equity in clinical-grade agentic genomics. PDF slides: https://docs.clawbio.ai/presentations/salerno-agentic-genomics-2026/Salerno-Agentic-Genomics-Slides.pdf</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-09-07-agentic-genomics-your-science-made-executable.mp3" length="50905705" type="audio/mpeg"/>
+    <itunes:duration>2545</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>What changes when a scientist can direct an AI agent using scientific context rather than programming syntax? In this lecture from the INFLAMomx Training School in Salerno, Manuel Corpas demonstrates real RNA-seq and single-cell workflows, an invalid control that stops safely, and the role of skills, evals and equity in clinical-grade agentic genomics. PDF slides: https://docs.clawbio.ai/presentations/salerno-agentic-genomics-2026/Salerno-Agentic-Genomics-Slides.pdf</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>What changes when a scientist can direct an AI agent using scientific context rather than programming syntax? In this lecture from the INFLAMomx Training School in Salerno, Manuel Corpas demonstrates real RNA-seq and single-cell workflows, an invalid control that stops safely, and the role of skills, evals and equity in clinical-grade agentic genomics. PDF slides: https://docs.clawbio.ai/presentations/salerno-agentic-genomics-2026/Salerno-Agentic-Genomics-Slides.pdf</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>Corpas Core + GBrain: five prompts for your first working AI memory system</title>
     <link>https://manuelcorpas.github.io/podcast/</link>
