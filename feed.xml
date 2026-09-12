@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide. Listen on Spotify: https://open.spotify.com/show/7ybzmeQKx5xfwsGjDsiQZe or on Apple Podcasts: https://podcasts.apple.com/us/podcast/personal-genomics-zone/id1252419814</description>
-  <lastBuildDate>Mon, 07 Sep 2026 12:36:58 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 12 Sep 2026 21:23:22 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -97,6 +97,59 @@
   <!-- Episode: Corpas Core + GBrain: five prompts for your first working AI memory system -->
   
   <!-- Episode: Agentic Genomics: Your Science, Made Executable -->
+  
+  <!-- Episode: Validated skills are necessary but not sufficient for trustworthy agentic genomics -->
+  <item>
+    <title>Validated skills are necessary but not sufficient for trustworthy agentic genomics</title>
+    <link>https://luma.com/clawbio-7ibq</link>
+    <pubDate>Sat, 12 Sep 2026 21:23:22 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/episodes/2026-09-12-crick-trustworthy-agentic-genomics</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[Science]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Artificial Intelligence]]></category>
+    <description><![CDATA[A 40-minute AI-narrated rehearsal of Manuel Corpas's Crick AI Club talk, prepared for 14 September 2026. Narrated with OpenAI Cedar; this is not a live event recording.
+
+The talk explores the move from human-operated computational workflows to scientific agents, the role of ClawBio's explicit skills and reproducibility records, and a pharmacogenomics test of where validated knowledge helps and where model-dependent input interpretation remains exposed. The benchmark evaluates a bounded decision task, not end-to-end clinical deployment.
+
+Documentation: https://docs.clawbio.ai/
+Events calendar: https://luma.com/clawbio
+Slack, #all-clawbio: https://clawbioworkspace.slack.com/archives/C0BPHCXF02V
+Event: https://luma.com/clawbio-7ibq
+Benchmark data and provenance: https://doi.org/10.5281/zenodo.22141182
+Code release: https://github.com/manuelcorpas/24-AGENTIC-PGX-BENCHMARK/tree/agentic-pgx-benchmark-v2.10]]></description>
+    <content:encoded><![CDATA[<p>A 40-minute AI-narrated rehearsal of Manuel Corpas&#x27;s Crick AI Club talk, prepared for 14 September 2026. Narrated with OpenAI Cedar; this is not a live event recording.</p><p>The talk explores the move from human-operated computational workflows to scientific agents, the role of ClawBio&#x27;s explicit skills and reproducibility records, and a pharmacogenomics test of where validated knowledge helps and where model-dependent input interpretation remains exposed. The benchmark evaluates a bounded decision task, not end-to-end clinical deployment.</p><ul><li><a href="https://docs.clawbio.ai/">Documentation</a></li><li><a href="https://luma.com/clawbio">Events calendar</a></li><li><a href="https://clawbioworkspace.slack.com/archives/C0BPHCXF02V">Slack, #all-clawbio</a></li><li><a href="https://luma.com/clawbio-7ibq">Event</a></li><li><a href="https://doi.org/10.5281/zenodo.22141182">Benchmark data and provenance</a></li><li><a href="https://github.com/manuelcorpas/24-AGENTIC-PGX-BENCHMARK/tree/agentic-pgx-benchmark-v2.10">Code release</a></li></ul>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-09-12-crick-trustworthy-agentic-genomics-40min.mp3" length="48001184" type="audio/mpeg"/>
+    <itunes:duration>2400</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>A 40-minute AI-narrated rehearsal of Manuel Corpas's Crick AI Club talk, prepared for 14 September 2026. Narrated with OpenAI Cedar; this is not a live event recording.
+
+The talk explores the move from human-operated computational workflows to scientific agents, the role of ClawBio's explicit skills and reproducibility records, and a pharmacogenomics test of where validated knowledge helps and where model-dependent input interpretation remains exposed. The benchmark evaluates a bounded decision task, not end-to-end clinical deployment.
+
+Documentation: https://docs.clawbio.ai/
+Events calendar: https://luma.com/clawbio
+Slack, #all-clawbio: https://clawbioworkspace.slack.com/archives/C0BPHCXF02V
+Event: https://luma.com/clawbio-7ibq
+Benchmark data and provenance: https://doi.org/10.5281/zenodo.22141182
+Code release: https://github.com/manuelcorpas/24-AGENTIC-PGX-BENCHMARK/tree/agentic-pgx-benchmark-v2.10</itunes:summary>
+    <itunes:image href="https://manuelcorpas.github.io/podcast/images/2026-09-12-crick-clawbio-logo.jpeg"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>A 40-minute AI-narrated rehearsal of Manuel Corpas's Crick AI Club talk, prepared for 14 September 2026. Narrated with OpenAI Cedar; this is not a live event recording.
+
+The talk explores the move from human-operated computational workflows to scientific agents, the role of ClawBio's explicit skills and reproducibility records, and a pharmacogenomics test of where validated knowledge helps and where model-dependent input interpretation remains exposed. The benchmark evaluates a bounded decision task, not end-to-end clinical deployment.
+
+Documentation: https://docs.clawbio.ai/
+Events calendar: https://luma.com/clawbio
+Slack, #all-clawbio: https://clawbioworkspace.slack.com/archives/C0BPHCXF02V
+Event: https://luma.com/clawbio-7ibq
+Benchmark data and provenance: https://doi.org/10.5281/zenodo.22141182
+Code release: https://github.com/manuelcorpas/24-AGENTIC-PGX-BENCHMARK/tree/agentic-pgx-benchmark-v2.10</googleplay:description>
+    <googleplay:image href="https://manuelcorpas.github.io/podcast/images/2026-09-12-crick-clawbio-logo.jpeg"/>
+  </item>
+
   <item>
     <title>Agentic Genomics: Your Science, Made Executable</title>
     <link>https://docs.clawbio.ai/presentations/salerno-agentic-genomics-2026/</link>
