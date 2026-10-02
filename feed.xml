@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide. Listen on Spotify: https://open.spotify.com/show/7ybzmeQKx5xfwsGjDsiQZe or on Apple Podcasts: https://podcasts.apple.com/us/podcast/personal-genomics-zone/id1252419814</description>
-  <lastBuildDate>Mon, 14 Sep 2026 10:44:28 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 13:36:28 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -99,6 +99,36 @@
   <!-- Episode: Agentic Genomics: Your Science, Made Executable -->
   
   <!-- Episode: Validated skills are necessary but not sufficient for trustworthy agentic genomics -->
+  
+  <!-- Episode: Compounding Neglect: How AI Widens the Equity Gap in Psychiatric Genomics (WCPG 2026 keynote) -->
+  <item>
+    <title>Compounding Neglect: How AI Widens the Equity Gap in Psychiatric Genomics (WCPG 2026 keynote)</title>
+    <link>https://manuelcorpas.com/2026/10/02/compounding-neglect-wcpg-2026-keynote/</link>
+    <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-10-01-wcpg-compounding-neglect-keynote.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[AgenticAI]]></category>
+    <category><![CDATA[PsychiatricGenetics]]></category>
+    <category><![CDATA[Pharmacogenomics]]></category>
+    <category><![CDATA[HealthEquity]]></category>
+    <category><![CDATA[ClawBio]]></category>
+    <description><![CDATA[My plenary keynote for the 2026 World Congress of Psychiatric Genetics in Glasgow, as a full recorded run-through from the day of the talk. How neglect compounds from biobanks to dosing rules to the AI models and agents that learn from them, what our pharmacogenomics benchmark shows when the answer key itself is wrong, and three things to do next: measure the silence, audit the answer key, and write the missing rules. Video with chapters: https://www.youtube.com/watch?v=Ua1cfKElPp8 . Slides: https://docs.clawbio.ai/presentations/wcpg-compounding-neglect-2026/ . Corrections: at 15:07 the 13 million are PubMed search results, not unique papers; at 25:35 97% is agreement with our reference, and the model spread narrowed from 21 to 6 points, not to zero; at 28:38 the Peruvian cohort is 736 people; at 30:11 the framing test used East African, not East Asian.]]></description>
+    <content:encoded><![CDATA[<p>My plenary keynote for the 2026 World Congress of Psychiatric Genetics in Glasgow, as a full recorded run-through from the day of the talk. How neglect compounds from biobanks to dosing rules to the AI models and agents that learn from them, what our pharmacogenomics benchmark shows when the answer key itself is wrong, and three things to do next: measure the silence, audit the answer key, and write the missing rules. Video with chapters: https://www.youtube.com/watch?v=Ua1cfKElPp8 . Slides: https://docs.clawbio.ai/presentations/wcpg-compounding-neglect-2026/ . Corrections: at 15:07 the 13 million are PubMed search results, not unique papers; at 25:35 97% is agreement with our reference, and the model spread narrowed from 21 to 6 points, not to zero; at 28:38 the Peruvian cohort is 736 people; at 30:11 the framing test used East African, not East Asian.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-10-01-wcpg-compounding-neglect-keynote.mp3" length="27957217" type="audio/mpeg"/>
+    <itunes:duration>2329</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>My plenary keynote for the 2026 World Congress of Psychiatric Genetics in Glasgow, as a full recorded run-through from the day of the talk. How neglect compounds from biobanks to dosing rules to the AI models and agents that learn from them, what our pharmacogenomics benchmark shows when the answer key itself is wrong, and three things to do next: measure the silence, audit the answer key, and write the missing rules. Video with chapters: https://www.youtube.com/watch?v=Ua1cfKElPp8 . Slides: https://docs.clawbio.ai/presentations/wcpg-compounding-neglect-2026/ . Corrections: at 15:07 the 13 million are PubMed search results, not unique papers; at 25:35 97% is agreement with our reference, and the model spread narrowed from 21 to 6 points, not to zero; at 28:38 the Peruvian cohort is 736 people; at 30:11 the framing test used East African, not East Asian.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>My plenary keynote for the 2026 World Congress of Psychiatric Genetics in Glasgow, as a full recorded run-through from the day of the talk. How neglect compounds from biobanks to dosing rules to the AI models and agents that learn from them, what our pharmacogenomics benchmark shows when the answer key itself is wrong, and three things to do next: measure the silence, audit the answer key, and write the missing rules. Video with chapters: https://www.youtube.com/watch?v=Ua1cfKElPp8 . Slides: https://docs.clawbio.ai/presentations/wcpg-compounding-neglect-2026/ . Corrections: at 15:07 the 13 million are PubMed search results, not unique papers; at 25:35 97% is agreement with our reference, and the model spread narrowed from 21 to 6 points, not to zero; at 28:38 the Peruvian cohort is 736 people; at 30:11 the framing test used East African, not East Asian.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>Validated skills are necessary but not sufficient for trustworthy agentic genomics</title>
     <link>https://docs.clawbio.ai/presentations/crick-science-after-pipelines-2026/</link>
