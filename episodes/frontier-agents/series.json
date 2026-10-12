@@ -1,0 +1,23 @@
+{
+  "series": "Frontier Agents",
+  "feed": "Personal Genomics Zone",
+  "mission": "Progressively build frontier-lab-level technical literacy in agentic AI through evidence-based 30-minute audio and reproducible experiments.",
+  "last_completed_episode": 1,
+  "episodes": [
+    {
+      "number": 1,
+      "date": "2026-10-12",
+      "slug": "2026-10-12-frontier-agents-01",
+      "topic": "Agent systems foundations: runtimes, harnesses, context, planning, evaluation",
+      "status": "publication_ready"
+    }
+  ],
+  "next_learning_objective": "Understand the mathematical and engineering foundations of agent policies, action loops, observation feedback, uncertainty and stopping conditions.",
+  "publication_policy": "External publication requires explicit approval of each new episode.",
+  "voice_defaults": {
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "mp3_bitrate_kbps": 192
+  },
+  "max_interval_days": 7
+}

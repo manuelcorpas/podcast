@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide. Listen on Spotify: https://open.spotify.com/show/7ybzmeQKx5xfwsGjDsiQZe or on Apple Podcasts: https://podcasts.apple.com/us/podcast/personal-genomics-zone/id1252419814</description>
-  <lastBuildDate>Fri, 02 Oct 2026 13:36:28 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 17:29:55 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -101,6 +101,33 @@
   <!-- Episode: Validated skills are necessary but not sufficient for trustworthy agentic genomics -->
   
   <!-- Episode: Compounding Neglect: How AI Widens the Equity Gap in Psychiatric Genomics (WCPG 2026 keynote) -->
+
+  <!-- Episode: Frontier Agents 01: How Agentic AI Actually Works - The Frontier Lab Mindset -->
+  <item>
+    <title>Frontier Agents 01: How Agentic AI Actually Works - The Frontier Lab Mindset</title>
+    <link>https://manuelcorpas.github.io/podcast/</link>
+    <pubDate>Mon, 12 Oct 2026 17:29:55 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-10-12-frontier-agents-agentic-ai-frontier-lab.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Technology]]></category>
+    <category><![CDATA[Education]]></category>
+    <category><![CDATA[Agentic AI]]></category>
+    <description><![CDATA[A 30-minute technical masterclass on agentic AI: tool-calling loops, agent harnesses, context engineering, inference-time computation, planning, multi-agent coordination, evaluation, security, and a reproducible frontier-lab experiment. AI-generated narration; prepared as an advanced learning resource, not a recording of Manuel Corpas speaking. Show notes and transcript: https://github.com/manuelcorpas/podcast/tree/main/episodes/2026-10-12-frontier-agents-01]]></description>
+    <content:encoded><![CDATA[<p>A 30-minute technical masterclass on agentic AI: tool-calling loops, agent harnesses, context engineering, inference-time computation, planning, multi-agent coordination, evaluation, security, and a reproducible frontier-lab experiment. AI-generated narration; prepared as an advanced learning resource, not a recording of Manuel Corpas speaking. Show notes and transcript: https://github.com/manuelcorpas/podcast/tree/main/episodes/2026-10-12-frontier-agents-01</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-10-12-frontier-agents-agentic-ai-frontier-lab.mp3" length="43201994" type="audio/mpeg"/>
+    <itunes:duration>1799</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>A 30-minute technical masterclass on agentic AI: tool-calling loops, agent harnesses, context engineering, inference-time computation, planning, multi-agent coordination, evaluation, security, and a reproducible frontier-lab experiment. AI-generated narration; prepared as an advanced learning resource, not a recording of Manuel Corpas speaking. Show notes and transcript: https://github.com/manuelcorpas/podcast/tree/main/episodes/2026-10-12-frontier-agents-01</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>A 30-minute technical masterclass on agentic AI: tool-calling loops, agent harnesses, context engineering, inference-time computation, planning, multi-agent coordination, evaluation, security, and a reproducible frontier-lab experiment. AI-generated narration; prepared as an advanced learning resource, not a recording of Manuel Corpas speaking. Show notes and transcript: https://github.com/manuelcorpas/podcast/tree/main/episodes/2026-10-12-frontier-agents-01</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>Compounding Neglect: How AI Widens the Equity Gap in Psychiatric Genomics (WCPG 2026 keynote)</title>
     <link>https://manuelcorpas.com/2026/10/02/compounding-neglect-wcpg-2026-keynote/</link>

@@ -1,0 +1,20 @@
+{
+  "series": "Frontier Agents",
+  "series_episode": 1,
+  "published_in": "Personal Genomics Zone",
+  "date": "2026-10-12",
+  "title": "How Agentic AI Actually Works: The Frontier Lab Mindset",
+  "audio_path": "audio/2026-10-12-frontier-agents-agentic-ai-frontier-lab.mp3",
+  "transcript_path": "episodes/2026-10-12-frontier-agents-01/transcript.txt",
+  "voice_provider": "OpenAI",
+  "voice_model": "tts-1-hd",
+  "voice": "onyx",
+  "synthetic_voice_disclosure": true,
+  "duration_seconds": 1799.995,
+  "size_bytes": 43201994,
+  "audio_sha256": "daf20b567bb8dd3089cdda6bd39ac6db4a781b7f38f275ffae4be1bf1b6d5a65",
+  "transcript_sha256": "023f78a5b592adbfba80deec94af434979d750c36e25baf048b3000050d12404",
+  "status": "publication_ready",
+  "source_notes": "episodes/2026-10-12-frontier-agents-01/show-notes.md",
+  "next_episode": "Agent policies, actions, observations, stopping conditions, and uncertainty in sequential decision-making"
+}
