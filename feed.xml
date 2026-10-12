@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide. Listen on Spotify: https://open.spotify.com/show/7ybzmeQKx5xfwsGjDsiQZe or on Apple Podcasts: https://podcasts.apple.com/us/podcast/personal-genomics-zone/id1252419814</description>
-  <lastBuildDate>Mon, 12 Oct 2026 17:29:55 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 17:50:20 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -116,7 +116,7 @@
     <category><![CDATA[Agentic AI]]></category>
     <description><![CDATA[A 30-minute technical masterclass on agentic AI: tool-calling loops, agent harnesses, context engineering, inference-time computation, planning, multi-agent coordination, evaluation, security, and a reproducible frontier-lab experiment. AI-generated narration; prepared as an advanced learning resource, not a recording of Manuel Corpas speaking. Show notes and transcript: https://github.com/manuelcorpas/podcast/tree/main/episodes/2026-10-12-frontier-agents-01]]></description>
     <content:encoded><![CDATA[<p>A 30-minute technical masterclass on agentic AI: tool-calling loops, agent harnesses, context engineering, inference-time computation, planning, multi-agent coordination, evaluation, security, and a reproducible frontier-lab experiment. AI-generated narration; prepared as an advanced learning resource, not a recording of Manuel Corpas speaking. Show notes and transcript: https://github.com/manuelcorpas/podcast/tree/main/episodes/2026-10-12-frontier-agents-01</p>]]></content:encoded>
-    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-10-12-frontier-agents-agentic-ai-frontier-lab.mp3" length="43201994" type="audio/mpeg"/>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-10-12-frontier-agents-agentic-ai-frontier-lab-v2.mp3" length="43201311" type="audio/mpeg"/>
     <itunes:duration>1799</itunes:duration>
     <itunes:author>Manuel Corpas</itunes:author>
     <itunes:explicit>false</itunes:explicit>

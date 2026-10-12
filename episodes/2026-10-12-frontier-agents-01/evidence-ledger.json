@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "reviewed_on": "2026-10-12",
+  "literature_cutoff": "2026-10-12",
+  "scope": "Episode 01 major external, dated, technical, comparative, safety and empirical claims; narrative examples and pedagogical hypotheses separately identified",
+  "release_readiness": "pass",
+  "sources": {
+    "ANTHROPIC_AGENTS": {
+      "url": "https://www.anthropic.com/engineering/building-effective-agents",
+      "date": "2024-12-19",
+      "evidence_type": "primary research",
+      "specific_finding": "Reports experience with agent workflows, explicitly differentiates predetermined workflows from agent-decided processes; recommends simple compositional patterns.",
+      "limitations": "Vendor-authored engineering experience, not a controlled scientific comparison or independent replication."
+    },
+    "OPENAI_AGENT_EVALS": {
+      "url": "https://developers.openai.com/api/docs/guides/agent-evals",
+      "date": "2026-10-12 (accessed; continuously updated)",
+      "evidence_type": "official technical documentation",
+      "specific_finding": "Documents end-to-end traces, tool calls, graders, datasets and evaluation runs for observing and evaluating agent behaviour.",
+      "limitations": "Product documentation is normative and changes with platform versions; it does not prove effects of any architecture."
+    },
+    "OPENAI_FEB2026": {
+      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+      "date": "2026-02-23",
+      "evidence_type": "primary research",
+      "specific_finding": "OpenAI reports SWE-bench Verified contamination and test defects, describes audit sample and benchmark-validity concerns.",
+      "limitations": "OpenAI-led audit of selected failure cases; its own claims and methods need independent scrutiny."
+    },
+    "OPENAI_JUL2026": {
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "date": "2026-07-08",
+      "evidence_type": "primary research",
+      "specific_finding": "Audit of 731 SWE-bench Pro public tasks found estimated 30 percent defective tasks; OpenAI explicitly withdrew its recommendation of Pro.",
+      "limitations": "A vendor-led audit using a partly flagged subset and independent engineers; estimate depends on methodology, task mix, and definition of broken."
+    },
+    "AGENTBENCH": {
+      "url": "https://arxiv.org/abs/2308.03688",
+      "date": "2023-08-07",
+      "evidence_type": "primary preprint",
+      "specific_finding": "Introduces multi-environment interactive agent benchmarking, measuring sequential decisions beyond isolated question answering.",
+      "limitations": "Historical preprint benchmark; models and environments may be superseded; scores are benchmark-dependent."
+    },
+    "AGENTJUDGEBENCH": {
+      "url": "https://arxiv.org/abs/2608.26623",
+      "date": "2026-08-27",
+      "evidence_type": "primary preprint",
+      "specific_finding": "Reports degraded reliability of LLM judging on complex agent tool-call workflow graphs and benefit of structured rubrics in some conditions.",
+      "limitations": "Preprint with limited generators/judges and its own benchmark design; not a universal failure-rate estimate."
+    },
+    "MOSAIC_ICML": {
+      "url": "https://proceedings.mlr.press/v306/agarwal26e.html",
+      "date": "2026-07-06",
+      "evidence_type": "peer-reviewed research",
+      "specific_finding": "Reports empirical guard training against dangerous multi-step tool use, prompt injection and privacy leakage across several systems.",
+      "limitations": "Results specific to the evaluated models, benchmarks, threat models and experimental setup."
+    },
+    "LLM_JUDGE_SURVEY": {
+      "url": "https://arxiv.org/abs/2411.15594",
+      "date": "2025-10-19 (revision)",
+      "evidence_type": "primary preprint",
+      "specific_finding": "Systematically reviews known reliability, consistency and bias problems with model-based grading.",
+      "limitations": "Survey and preprint; not independent experimental validation of every cited mitigation."
+    }
+  },
+  "claims": [
+    {
+      "id": "A01",
+      "excerpt": "An agent adds an action loop.",
+      "type": "technical",
+      "sources": [
+        "ANTHROPIC_AGENTS",
+        "AGENTBENCH"
+      ],
+      "assessment": "verified-in-source",
+      "limitations": "A conceptual definition; the literature uses varying boundaries between scripted workflows and autonomous agents."
+    },
+    {
+      "id": "A02",
+      "excerpt": "If every action is predetermined, you have a workflow, even if a language model appears within it.",
+      "type": "technical",
+      "sources": [
+        "ANTHROPIC_AGENTS"
+      ],
+      "assessment": "verified-in-source",
+      "limitations": "This is one influential operational distinction, not a universally adopted formal definition of agent."
+    },
+    {
+      "id": "A03",
+      "excerpt": "A tool name is not a guarantee of correctness.",
+      "type": "technical",
+      "sources": [
+        "OPENAI_AGENT_EVALS"
+      ],
+      "assessment": "qualified",
+      "limitations": "Illustrative engineering warning; correctness depends on schema, argument validation, execution and independent results."
+    },
+    {
+      "id": "A04",
+      "excerpt": "Context engineering is the design of what the model receives, when it receives it, and how that information is selected or compressed.",
+      "type": "technical",
+      "sources": [
+        "ANTHROPIC_AGENTS"
+      ],
+      "assessment": "qualified",
+      "limitations": "A working engineering definition, not a measured claim that any particular context policy outperforms another."
+    },
+    {
+      "id": "A05",
+      "excerpt": "In an agentic system, a plan is valuable when it improves decisions in the environment.",
+      "type": "methodological",
+      "sources": [
+        "ANTHROPIC_AGENTS",
+        "AGENTBENCH"
+      ],
+      "assessment": "qualified",
+      "limitations": "General hypothesis motivating an ablation; the podcast does not present evidence that planning always improves task success."
+    },
+    {
+      "id": "A06",
+      "excerpt": "A strong environment gives the agent ways to falsify its own hypothesis, not merely ways to confirm it.",
+      "type": "methodological",
+      "sources": [
+        "AGENTBENCH",
+        "OPENAI_AGENT_EVALS"
+      ],
+      "assessment": "qualified",
+      "limitations": "Prescriptive design principle; tool-feedback benefits must be independently tested for each environment."
+    },
+    {
+      "id": "A07",
+      "excerpt": "Two agents can share the same mistaken assumption.",
+      "type": "methodological",
+      "sources": [
+        "ANTHROPIC_AGENTS",
+        "LLM_JUDGE_SURVEY"
+      ],
+      "assessment": "qualified",
+      "limitations": "Plausible correlated-error scenario, not a quantitative measured multi-agent failure rate."
+    },
+    {
+      "id": "A08",
+      "excerpt": "In February twenty twenty-six, OpenAI published a critique of SWE-bench Verified",
+      "type": "empirical",
+      "sources": [
+        "OPENAI_FEB2026"
+      ],
+      "assessment": "verified-in-source",
+      "limitations": "The original February announcement was subsequently followed by a July audit of the recommended replacement."
+    },
+    {
+      "id": "A09",
+      "excerpt": "In July twenty twenty-six, OpenAI published a follow-up audit of SWE-bench Pro",
+      "type": "empirical",
+      "sources": [
+        "OPENAI_JUL2026"
+      ],
+      "assessment": "verified-in-source",
+      "limitations": "OpenAI's own analysis; estimated defect rate and retraction should not be extrapolated to all coding benchmarks."
+    },
+    {
+      "id": "A10",
+      "excerpt": "OpenAI explicitly withdrew its earlier recommendation.",
+      "type": "empirical",
+      "sources": [
+        "OPENAI_JUL2026"
+      ],
+      "assessment": "verified-in-source",
+      "limitations": "Refers specifically to SWE-bench Pro and the July 2026 recommendation withdrawal."
+    },
+    {
+      "id": "A11",
+      "excerpt": "A model judging its own answer is not independent verification.",
+      "type": "methodological",
+      "sources": [
+        "LLM_JUDGE_SURVEY",
+        "AGENTJUDGEBENCH"
+      ],
+      "assessment": "qualified",
+      "limitations": "Model grading may still be useful, but not independent objective evidence without calibration or other verification."
+    },
+    {
+      "id": "A12",
+      "excerpt": "A trajectory records the observations, tool calls, edits, tests, and decision points in an agent run.",
+      "type": "technical",
+      "sources": [
+        "OPENAI_AGENT_EVALS"
+      ],
+      "assessment": "verified-in-source",
+      "limitations": "This is a useful trace abstraction, though actual trace schema and instrumentation vary between systems."
+    },
+    {
+      "id": "A13",
+      "excerpt": "One especially important risk is prompt injection.",
+      "type": "technical",
+      "sources": [
+        "MOSAIC_ICML"
+      ],
+      "assessment": "verified-in-source",
+      "limitations": "A general safety-risk category; prevalence and severity depend on exposure, privilege controls and attacker capability."
+    },
+    {
+      "id": "A14",
+      "excerpt": "The agent does not need malicious intent to exploit a poorly designed success metric.",
+      "type": "interpretation",
+      "sources": [
+        "MOSAIC_ICML",
+        "OPENAI_AGENT_EVALS"
+      ],
+      "assessment": "illustrative",
+      "limitations": "Reward-hacking example is hypothetical in this episode; no direct experiment quantifying this exact failure is reported."
+    },
+    {
+      "id": "A15",
+      "excerpt": "Every extra model call consumes tokens.",
+      "type": "technical",
+      "sources": [
+        "OPENAI_AGENT_EVALS"
+      ],
+      "assessment": "verified-in-source",
+      "limitations": "Token use and billing vary by model, provider, cached context and runtime; no specific monetary savings claimed."
+    },
+    {
+      "id": "A16",
+      "excerpt": "At the end, write one paragraph with four parts: the question, the controlled comparison, the observed result, and the remaining uncertainty.",
+      "type": "methodological",
+      "sources": [
+        "OPENAI_AGENT_EVALS",
+        "AGENTBENCH"
+      ],
+      "assessment": "qualified",
+      "limitations": "A teaching recommendation, not a validated universal structure for all research reports."
+    }
+  ]
+}
