@@ -1,0 +1,22 @@
+{
+  "source": "v9.m4a",
+  "source_sha256": "c4217d3a27ecf3baea9df8fb61354fe0124e0776b342e949fcac4ef0c1908016",
+  "source_bytes": 12294289,
+  "duration_seconds": 1215.658667,
+  "audio_codec": "AAC LC",
+  "publication_authorised": true,
+  "guid": "mena-microbiome-2026-v9",
+  "audio_file": "audio/2026-10-18-mena-microbiome-v9.m4a",
+  "audio_url": "https://manuelcorpas.github.io/podcast/audio/2026-10-18-mena-microbiome-v9.m4a",
+  "episode_url": "https://manuelcorpas.github.io/podcast/episodes/2026-10-18-mena-microbiome/",
+  "status": "ready_to_push",
+  "verification": {
+    "full_ffmpeg_decode": "passed",
+    "duplicate_title_guid_enclosure_preflight": "none found",
+    "source_copy": "byte-identical SHA256"
+  },
+  "provenance": "Manuel Corpas presentation recording; no claim of live conference delivery or AI narration",
+  "cover_url": "https://manuelcorpas.github.io/podcast/episodes/2026-10-18-mena-microbiome/cover.jpg",
+  "published_at": "2026-10-18T08:55:11Z",
+  "episode_artwork": "Existing square show artwork retained in RSS; actual recording frame used on episode page"
+}

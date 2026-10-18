@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide. Listen on Spotify: https://open.spotify.com/show/7ybzmeQKx5xfwsGjDsiQZe or on Apple Podcasts: https://podcasts.apple.com/us/podcast/personal-genomics-zone/id1252419814</description>
-  <lastBuildDate>Mon, 12 Oct 2026 17:50:20 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 08:55:11 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -103,6 +103,32 @@
   <!-- Episode: Compounding Neglect: How AI Widens the Equity Gap in Psychiatric Genomics (WCPG 2026 keynote) -->
 
   <!-- Episode: Frontier Agents 01: How Agentic AI Actually Works - The Frontier Lab Mindset -->
+  
+  <!-- Episode: From ancient gut to modern clinic: metagenomic surveillance of mobile antimicrobial resistance -->
+  <item>
+    <title>From ancient gut to modern clinic: metagenomic surveillance of mobile antimicrobial resistance</title>
+    <link>https://manuelcorpas.github.io/podcast/episodes/2026-10-18-mena-microbiome/</link>
+    <pubDate>Sun, 18 Oct 2026 08:55:11 +0000</pubDate>
+    <guid isPermaLink="false">mena-microbiome-2026-v9</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Microbiome]]></category>
+    <category><![CDATA[Antimicrobial resistance]]></category>
+    <description><![CDATA[Manuel Corpas presentation recording, prepared for the MENA Microbiome Conference 2026. An unpublished Peru microbiome study asks what antimicrobial resistance annotations can establish across ancient gut, modern human and environmental microbiomes. The presentation examines why a historical comparison changed with the counting method, distinguishes resistance signals from demonstrated mobility or clinical risk, and sets out bounded implications for surveillance. Processing remains incompletely harmonised; the work does not establish a validated Qatar or MENA surveillance protocol. The supplied V9 audio is published unchanged. Duration: 20 minutes 16 seconds.]]></description>
+    <content:encoded><![CDATA[<p>Manuel Corpas presentation recording, prepared for the MENA Microbiome Conference 2026. An unpublished Peru microbiome study asks what antimicrobial resistance annotations can establish across ancient gut, modern human and environmental microbiomes. The presentation examines why a historical comparison changed with the counting method, distinguishes resistance signals from demonstrated mobility or clinical risk, and sets out bounded implications for surveillance. Processing remains incompletely harmonised; the work does not establish a validated Qatar or MENA surveillance protocol. The supplied V9 audio is published unchanged. Duration: 20 minutes 16 seconds.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-10-18-mena-microbiome-v9.m4a" length="12294289" type="audio/mp4"/>
+    <itunes:duration>1215</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Manuel Corpas presentation recording, prepared for the MENA Microbiome Conference 2026. An unpublished Peru microbiome study asks what antimicrobial resistance annotations can establish across ancient gut, modern human and environmental microbiomes. The presentation examines why a historical comparison changed with the counting method, distinguishes resistance signals from demonstrated mobility or clinical risk, and sets out bounded implications for surveillance. Processing remains incompletely harmonised; the work does not establish a validated Qatar or MENA surveillance protocol. The supplied V9 audio is published unchanged. Duration: 20 minutes 16 seconds.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Manuel Corpas presentation recording, prepared for the MENA Microbiome Conference 2026. An unpublished Peru microbiome study asks what antimicrobial resistance annotations can establish across ancient gut, modern human and environmental microbiomes. The presentation examines why a historical comparison changed with the counting method, distinguishes resistance signals from demonstrated mobility or clinical risk, and sets out bounded implications for surveillance. Processing remains incompletely harmonised; the work does not establish a validated Qatar or MENA surveillance protocol. The supplied V9 audio is published unchanged. Duration: 20 minutes 16 seconds.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>Frontier Agents 01: How Agentic AI Actually Works - The Frontier Lab Mindset</title>
     <link>https://manuelcorpas.github.io/podcast/</link>
