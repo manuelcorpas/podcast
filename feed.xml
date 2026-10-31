@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide. Listen on Spotify: https://open.spotify.com/show/7ybzmeQKx5xfwsGjDsiQZe or on Apple Podcasts: https://podcasts.apple.com/us/podcast/personal-genomics-zone/id1252419814</description>
-  <lastBuildDate>Sun, 18 Oct 2026 08:55:11 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 08:52:43 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -105,6 +105,33 @@
   <!-- Episode: Frontier Agents 01: How Agentic AI Actually Works - The Frontier Lab Mindset -->
   
   <!-- Episode: From ancient gut to modern clinic: metagenomic surveillance of mobile antimicrobial resistance -->
+  
+  <!-- Episode: Study episode: build an AI agent locally, then test it like you mean it -->
+  <item>
+    <title>Study episode: build an AI agent locally, then test it like you mean it</title>
+    <link>https://manuelcorpas.com/2026/10/31/build-ai-agent-locally-test-it/</link>
+    <pubDate>Sat, 31 Oct 2026 08:52:43 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-10-31-agents-local-to-production.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI agents]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Pharmacogenomics]]></category>
+    <category><![CDATA[MCP]]></category>
+    <description><![CDATA[A revision episode from a morning of hands-on learning before a workshop on agents from local to production. Four lessons: the anatomy of an agent with Google ADK and local Gemma 4, watching the loop in the ADK web UI, moving tools into an MCP server, and swapping models with the same test. Includes the failures that taught the most: a lying docstring that passed, a stale tool server, and a codeine question that sat just past the edge of the tools. Narrated with a synthetic voice.]]></description>
+    <content:encoded><![CDATA[<p>A revision episode from a morning of hands-on learning before a workshop on agents from local to production. Four lessons: the anatomy of an agent with Google ADK and local Gemma 4, watching the loop in the ADK web UI, moving tools into an MCP server, and swapping models with the same test. Includes the failures that taught the most: a lying docstring that passed, a stale tool server, and a codeine question that sat just past the edge of the tools. Narrated with a synthetic voice.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-10-31-agents-local-to-production.mp3" length="17755890" type="audio/mpeg"/>
+    <itunes:duration>1479</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>A revision episode from a morning of hands-on learning before a workshop on agents from local to production. Four lessons: the anatomy of an agent with Google ADK and local Gemma 4, watching the loop in the ADK web UI, moving tools into an MCP server, and swapping models with the same test. Includes the failures that taught the most: a lying docstring that passed, a stale tool server, and a codeine question that sat just past the edge of the tools. Narrated with a synthetic voice.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>A revision episode from a morning of hands-on learning before a workshop on agents from local to production. Four lessons: the anatomy of an agent with Google ADK and local Gemma 4, watching the loop in the ADK web UI, moving tools into an MCP server, and swapping models with the same test. Includes the failures that taught the most: a lying docstring that passed, a stale tool server, and a codeine question that sat just past the edge of the tools. Narrated with a synthetic voice.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>From ancient gut to modern clinic: metagenomic surveillance of mobile antimicrobial resistance</title>
     <link>https://manuelcorpas.github.io/podcast/episodes/2026-10-18-mena-microbiome/</link>
