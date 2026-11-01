@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide. Listen on Spotify: https://open.spotify.com/show/7ybzmeQKx5xfwsGjDsiQZe or on Apple Podcasts: https://podcasts.apple.com/us/podcast/personal-genomics-zone/id1252419814</description>
-  <lastBuildDate>Sat, 31 Oct 2026 08:52:43 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 13:47:37 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -107,6 +107,33 @@
   <!-- Episode: From ancient gut to modern clinic: metagenomic surveillance of mobile antimicrobial resistance -->
   
   <!-- Episode: Study episode: build an AI agent locally, then test it like you mean it -->
+  
+  <!-- Episode: The state of AI agents for biology: what 147 NeurIPS papers reveal -->
+  <item>
+    <title>The state of AI agents for biology: what 147 NeurIPS papers reveal</title>
+    <link>https://manuelcorpas.com</link>
+    <pubDate>Sun, 01 Nov 2026 13:47:37 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-11-01-agents-for-biology-state-of-the-art.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI agents]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Research]]></category>
+    <category><![CDATA[ClawBio]]></category>
+    <description><![CDATA[A snapshot of AI agents for biology at the end of 2026, drawn from a critical review of all 147 papers accepted to the NeurIPS 2026 workshop on Agentic AI for Biological Discovery. Five lessons: right answers for the wrong reasons, success measured at the wrong boundary, fragile AI judges, how rarely agents are compared with simpler methods, and a closed loop that is still mostly closed in silico. Plus a tour of what is being built in genomics, molecular design, the clinic and the literature, the eight oral papers, and what it all means for agents in science beyond biology. The review behind the episode was prepared with AI agents and checked by script; 28 papers were read in full and 119 from their abstracts. Narrated with a synthetic voice.]]></description>
+    <content:encoded><![CDATA[<p>A snapshot of AI agents for biology at the end of 2026, drawn from a critical review of all 147 papers accepted to the NeurIPS 2026 workshop on Agentic AI for Biological Discovery. Five lessons: right answers for the wrong reasons, success measured at the wrong boundary, fragile AI judges, how rarely agents are compared with simpler methods, and a closed loop that is still mostly closed in silico. Plus a tour of what is being built in genomics, molecular design, the clinic and the literature, the eight oral papers, and what it all means for agents in science beyond biology. The review behind the episode was prepared with AI agents and checked by script; 28 papers were read in full and 119 from their abstracts. Narrated with a synthetic voice.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-11-01-agents-for-biology-state-of-the-art.mp3" length="27205676" type="audio/mpeg"/>
+    <itunes:duration>1700</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>A snapshot of AI agents for biology at the end of 2026, drawn from a critical review of all 147 papers accepted to the NeurIPS 2026 workshop on Agentic AI for Biological Discovery. Five lessons: right answers for the wrong reasons, success measured at the wrong boundary, fragile AI judges, how rarely agents are compared with simpler methods, and a closed loop that is still mostly closed in silico. Plus a tour of what is being built in genomics, molecular design, the clinic and the literature, the eight oral papers, and what it all means for agents in science beyond biology. The review behind the episode was prepared with AI agents and checked by script; 28 papers were read in full and 119 from their abstracts. Narrated with a synthetic voice.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>A snapshot of AI agents for biology at the end of 2026, drawn from a critical review of all 147 papers accepted to the NeurIPS 2026 workshop on Agentic AI for Biological Discovery. Five lessons: right answers for the wrong reasons, success measured at the wrong boundary, fragile AI judges, how rarely agents are compared with simpler methods, and a closed loop that is still mostly closed in silico. Plus a tour of what is being built in genomics, molecular design, the clinic and the literature, the eight oral papers, and what it all means for agents in science beyond biology. The review behind the episode was prepared with AI agents and checked by script; 28 papers were read in full and 119 from their abstracts. Narrated with a synthetic voice.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>Study episode: build an AI agent locally, then test it like you mean it</title>
     <link>https://manuelcorpas.com/2026/10/31/build-ai-agent-locally-test-it/</link>
