@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide. Listen on Spotify: https://open.spotify.com/show/7ybzmeQKx5xfwsGjDsiQZe or on Apple Podcasts: https://podcasts.apple.com/us/podcast/personal-genomics-zone/id1252419814</description>
-  <lastBuildDate>Sun, 01 Nov 2026 13:47:37 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 16:35:04 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -109,6 +109,34 @@
   <!-- Episode: Study episode: build an AI agent locally, then test it like you mean it -->
   
   <!-- Episode: The state of AI agents for biology: what 147 NeurIPS papers reveal -->
+  
+  <!-- Episode: La IA ya analiza genomas. ¿Cuándo podemos confiar en ella? (en español) -->
+  <item>
+    <title>La IA ya analiza genomas. ¿Cuándo podemos confiar en ella? (en español)</title>
+    <link>https://manuelcorpas.com/2026/11/14/genomica-agentica-sidra-webinar-latinoamericano-2026/</link>
+    <pubDate>Sat, 14 Nov 2026 16:35:04 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-11-14-genomica-agentica-sidra-latam.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[AI agents]]></category>
+    <category><![CDATA[Español]]></category>
+    <category><![CDATA[Talks]]></category>
+    <category><![CDATA[ClawBio]]></category>
+    <description><![CDATA[Charla en español de Manuel Corpas en el III Webinar Latinoamericano en Análisis Bioinformático (DNA Institute, 14 de noviembre de 2026). Un agente de inteligencia artificial puede analizar un genoma sin que nadie escriba una línea de código, y puede equivocarse con un informe impecable sin que nadie lo note. Qué cuenta como agente, el fallo silencioso que parece correcto, el caso real del archivo vacío en ClawBio, la evidencia en farmacogenómica y tres niveles de validación. Grabación en directo con preguntas del público. Correcciones: las cifras de evidencia citadas proceden del preprint de bioRxiv de junio de 2026 y no del artículo aceptado, cuyo análisis actualizado no atribuye las diferencias entre cohortes a la ascendencia; ClawBio registra unas 3.400 clonaciones por semana, no 5.000. Vídeo y diapositivas en el enlace.]]></description>
+    <content:encoded><![CDATA[<p>Charla en español de Manuel Corpas en el III Webinar Latinoamericano en Análisis Bioinformático (DNA Institute, 14 de noviembre de 2026). Un agente de inteligencia artificial puede analizar un genoma sin que nadie escriba una línea de código, y puede equivocarse con un informe impecable sin que nadie lo note. Qué cuenta como agente, el fallo silencioso que parece correcto, el caso real del archivo vacío en ClawBio, la evidencia en farmacogenómica y tres niveles de validación. Grabación en directo con preguntas del público. Correcciones: las cifras de evidencia citadas proceden del preprint de bioRxiv de junio de 2026 y no del artículo aceptado, cuyo análisis actualizado no atribuye las diferencias entre cohortes a la ascendencia; ClawBio registra unas 3.400 clonaciones por semana, no 5.000. Vídeo y diapositivas en el enlace.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-11-14-genomica-agentica-sidra-latam.mp3" length="23997482" type="audio/mpeg"/>
+    <itunes:duration>1999</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>Charla en español de Manuel Corpas en el III Webinar Latinoamericano en Análisis Bioinformático (DNA Institute, 14 de noviembre de 2026). Un agente de inteligencia artificial puede analizar un genoma sin que nadie escriba una línea de código, y puede equivocarse con un informe impecable sin que nadie lo note. Qué cuenta como agente, el fallo silencioso que parece correcto, el caso real del archivo vacío en ClawBio, la evidencia en farmacogenómica y tres niveles de validación. Grabación en directo con preguntas del público. Correcciones: las cifras de evidencia citadas proceden del preprint de bioRxiv de junio de 2026 y no del artículo aceptado, cuyo análisis actualizado no atribuye las diferencias entre cohortes a la ascendencia; ClawBio registra unas 3.400 clonaciones por semana, no 5.000. Vídeo y diapositivas en el enlace.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>Charla en español de Manuel Corpas en el III Webinar Latinoamericano en Análisis Bioinformático (DNA Institute, 14 de noviembre de 2026). Un agente de inteligencia artificial puede analizar un genoma sin que nadie escriba una línea de código, y puede equivocarse con un informe impecable sin que nadie lo note. Qué cuenta como agente, el fallo silencioso que parece correcto, el caso real del archivo vacío en ClawBio, la evidencia en farmacogenómica y tres niveles de validación. Grabación en directo con preguntas del público. Correcciones: las cifras de evidencia citadas proceden del preprint de bioRxiv de junio de 2026 y no del artículo aceptado, cuyo análisis actualizado no atribuye las diferencias entre cohortes a la ascendencia; ClawBio registra unas 3.400 clonaciones por semana, no 5.000. Vídeo y diapositivas en el enlace.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>The state of AI agents for biology: what 147 NeurIPS papers reveal</title>
     <link>https://manuelcorpas.com</link>
