@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide. Listen on Spotify: https://open.spotify.com/show/7ybzmeQKx5xfwsGjDsiQZe or on Apple Podcasts: https://podcasts.apple.com/us/podcast/personal-genomics-zone/id1252419814</description>
-  <lastBuildDate>Sat, 14 Nov 2026 16:35:04 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 04:21:56 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -111,6 +111,33 @@
   <!-- Episode: The state of AI agents for biology: what 147 NeurIPS papers reveal -->
   
   <!-- Episode: La IA ya analiza genomas. ¿Cuándo podemos confiar en ella? (en español) -->
+  
+  <!-- Episode: Memory is infrastructure: what I learned designing memory for AI agents -->
+  <item>
+    <title>Memory is infrastructure: what I learned designing memory for AI agents</title>
+    <link>https://manuelcorpas.com</link>
+    <pubDate>Sun, 22 Nov 2026 04:21:56 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-11-22-agent-memory-is-infrastructure.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI agents]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Research]]></category>
+    <category><![CDATA[ClawBio]]></category>
+    <description><![CDATA[An agent that remembers is not an agent that is right: in my own lab run, memory made an invented restaurant booking consistent across every turn. Twelve ideas from a workshop on agent memory, from decaying memories and typed stores to retrieving tools instead of loading them all, and three failures I saw when I ran the labs. What it means for agents that re-analyse rare disease cases, where no case is ever closed. Narrated with a synthetic voice.]]></description>
+    <content:encoded><![CDATA[<p>An agent that remembers is not an agent that is right: in my own lab run, memory made an invented restaurant booking consistent across every turn. Twelve ideas from a workshop on agent memory, from decaying memories and typed stores to retrieving tools instead of loading them all, and three failures I saw when I ran the labs. What it means for agents that re-analyse rare disease cases, where no case is ever closed. Narrated with a synthetic voice.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-11-22-agent-memory-is-infrastructure.mp3" length="13062956" type="audio/mpeg"/>
+    <itunes:duration>816</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>An agent that remembers is not an agent that is right: in my own lab run, memory made an invented restaurant booking consistent across every turn. Twelve ideas from a workshop on agent memory, from decaying memories and typed stores to retrieving tools instead of loading them all, and three failures I saw when I ran the labs. What it means for agents that re-analyse rare disease cases, where no case is ever closed. Narrated with a synthetic voice.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>An agent that remembers is not an agent that is right: in my own lab run, memory made an invented restaurant booking consistent across every turn. Twelve ideas from a workshop on agent memory, from decaying memories and typed stores to retrieving tools instead of loading them all, and three failures I saw when I ran the labs. What it means for agents that re-analyse rare disease cases, where no case is ever closed. Narrated with a synthetic voice.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>La IA ya analiza genomas. ¿Cuándo podemos confiar en ella? (en español)</title>
     <link>https://manuelcorpas.com/2026/11/14/genomica-agentica-sidra-webinar-latinoamericano-2026/</link>
