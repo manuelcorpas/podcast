@@ -17,7 +17,7 @@
   <atom:link href="https://manuelcorpas.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <link>https://manuelcorpas.com</link>
   <description>AI agents, genomic equity, and the future of bioinformatics. Dr. Manuel Corpas explores agentic genomics, autonomous pipelines, health equity metrics, and building inclusive research infrastructure for precision medicine worldwide. Listen on Spotify: https://open.spotify.com/show/7ybzmeQKx5xfwsGjDsiQZe or on Apple Podcasts: https://podcasts.apple.com/us/podcast/personal-genomics-zone/id1252419814</description>
-  <lastBuildDate>Sun, 22 Nov 2026 04:21:56 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 04:26:25 +0000</lastBuildDate>
   <language>en</language>
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
@@ -113,6 +113,32 @@
   <!-- Episode: La IA ya analiza genomas. ¿Cuándo podemos confiar en ella? (en español) -->
   
   <!-- Episode: Memory is infrastructure: what I learned designing memory for AI agents -->
+  
+  <!-- Episode: Harness engineering: what it takes to make AI agents safe to act on -->
+  <item>
+    <title>Harness engineering: what it takes to make AI agents safe to act on</title>
+    <link>https://manuelcorpas.com</link>
+    <pubDate>Mon, 23 Nov 2026 04:26:25 +0000</pubDate>
+    <guid isPermaLink="false">https://manuelcorpas.github.io/podcast/audio/2026-11-23-harness-engineering-safe-to-act-on.mp3</guid>
+    <dc:creator><![CDATA[Manuel Corpas]]></dc:creator>
+    <category><![CDATA[AI agents]]></category>
+    <category><![CDATA[Genomics]]></category>
+    <category><![CDATA[Podcast]]></category>
+    <category><![CDATA[Research]]></category>
+    <description><![CDATA[A confident score is not a reason. Six lessons from a workshop on harness engineering, from scaffolding versus foundation to who should hold the plan, and a hospital catalogue case where the model in every seat scored about twenty points worse than code. What it means for agents that interpret genetic variants. Narrated with a synthetic voice.]]></description>
+    <content:encoded><![CDATA[<p>A confident score is not a reason. Six lessons from a workshop on harness engineering, from scaffolding versus foundation to who should hold the plan, and a hospital catalogue case where the model in every seat scored about twenty points worse than code. What it means for agents that interpret genetic variants. Narrated with a synthetic voice.</p>]]></content:encoded>
+    <enclosure url="https://manuelcorpas.github.io/podcast/audio/2026-11-23-harness-engineering-safe-to-act-on.mp3" length="14492972" type="audio/mpeg"/>
+    <itunes:duration>905</itunes:duration>
+    <itunes:author>Manuel Corpas</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>A confident score is not a reason. Six lessons from a workshop on harness engineering, from scaffolding versus foundation to who should hold the plan, and a hospital catalogue case where the model in every seat scored about twenty points worse than code. What it means for agents that interpret genetic variants. Narrated with a synthetic voice.</itunes:summary>
+    <itunes:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+    <googleplay:author>Manuel Corpas</googleplay:author>
+    <googleplay:explicit>false</googleplay:explicit>
+    <googleplay:description>A confident score is not a reason. Six lessons from a workshop on harness engineering, from scaffolding versus foundation to who should hold the plan, and a hospital catalogue case where the model in every seat scored about twenty points worse than code. What it means for agents that interpret genetic variants. Narrated with a synthetic voice.</googleplay:description>
+    <googleplay:image href="https://corpasfoo.files.wordpress.com/2017/06/podcast.jpg?fit=3000%2C3000"/>
+  </item>
+
   <item>
     <title>Memory is infrastructure: what I learned designing memory for AI agents</title>
     <link>https://manuelcorpas.com</link>
